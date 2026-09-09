@@ -16,9 +16,9 @@
 |---|---|---|
 | Egg | Buy 30 every 2 weeks | 750 |
 | Whole wheat bread | 1 every week | 350 |
-| Chicken Breast (S&R ₱335/kg) | Buy 3.7kg/2 weeks or 7.4kg/month | 2,500 |
-| Cream dory | 2kg every month | 632 |
-| **Total** | | **4,232** |
+| Chicken Breast (S&R ₱335/kg) | Buy 3.8kg/2 weeks or 7.6kg/month | 2,600 |
+| Cream dory | 3kg every month | 948 |
+| **Total** | | **4,648** |
 
 ## Wet Market (Buy once a week)
 
@@ -35,6 +35,6 @@
 | Source | Amount (₱) |
 |---|---|
 | Shopee | 2,266 |
-| Supermarket | 4,232 |
+| Supermarket | 4,648 |
 | Wet Market | 1,050 |
-| **Grand Total** | **7,548** |
+| **Grand Total** | **7,964** |

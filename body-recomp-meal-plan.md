@@ -1,11 +1,11 @@
 # Body Recomp Meal Plan
 
-**5'9" · 155 lbs · 3 lifting days + 1 cycling day per week**
+**5'9" · 160 lbs · 3 lifting days + 1 cycling day per week**
 
 | Target | |
 |---|---|
-| **Protein** | **140g every day** |
-| Calories | **~2,180 Mon–Sat · ~2,710 Sunday** — 7-day average **2,254** |
+| **Protein** | **145g, Monday to Saturday** |
+| Calories | **~2,200 Mon–Sat · ~2,725 Sunday, untracked** — 7-day average **2,269** |
 | Fat | 60–70g |
 | Carbs | ~255g |
 
@@ -17,7 +17,7 @@ The calorie figure is your estimated maintenance, not a deficit. See [Where the 
 
 1. [The Seven Rules](#the-seven-rules)
 2. [A Day at a Glance](#a-day-at-a-glance)
-3. [How Every Day Reaches 140g](#how-every-day-reaches-140g)
+3. [How Every Day Reaches 145g](#how-every-day-reaches-145g)
 4. [Breakfast — Almusal](#breakfast--almusal)
 5. [Lunch and Dinner — Tanghalian at Hapunan](#lunch-and-dinner--tanghalian-at-hapunan)
 6. [The Protein Rotation](#the-protein-rotation)
@@ -38,11 +38,11 @@ The calorie figure is your estimated maintenance, not a deficit. See [Where the 
 
 Everything in this plan follows from these. If you remember nothing else, remember these.
 
-1. **140g of protein every day.** This is the number the whole plan is built around. It's a target you hit, not a floor with slack — a normal day lands at 142–144g. 140g is 2.0g per kg of bodyweight, inside the 1.6–2.2 range the evidence supports for building muscle.
+1. **145g of protein, Monday to Saturday.** This is the number the whole plan is built around. It's a target you hit, not a floor with slack — a normal day lands at 146–148g, Tuesday a little under at 142g. 145g is 2.0g per kg of bodyweight at 160 lbs, inside the 1.6–2.2 range the evidence supports for building muscle. **Sunday is untracked past breakfast** and lands nearer 120g; see [Sunday](#sunday).
 2. **Weigh all meat and fish COOKED.** Weigh rice cooked too. Getting this wrong is the one mistake that actually breaks the plan — see [Weighing](#weighing--read-this-once-properly).
-3. **Every serving of the day's protein carries about 36g of protein.** That's what sizes every portion in the rotation.
-4. **Three meals a day.** Breakfast, lunch, dinner. Nothing between them.
-5. **Lunch and dinner are identical, every day.** Cook one batch at lunch, refrigerate half for dinner. There are no exceptions any more — Tuesday is simply one can of tuna at each meal.
+3. **Every serving of the day's protein carries about 38g of protein.** That's what sizes every portion in the rotation.
+4. **Three meals a day.** Breakfast, lunch, dinner. Nothing between them. On Sunday only breakfast is tracked.
+5. **Lunch and dinner are identical, Monday to Saturday.** Cook one batch at lunch, refrigerate half for dinner. Tuesday is simply one can of tuna at each meal.
 6. **Vegetables count as zero protein.** They're in the plan for volume, fibre and calcium.
 7. **Every meal gets oil** — 2 tsp at breakfast, 3 tsp on chicken, 2 tsp on cream dory, 1 tsp on tuna. With portions this size the oil carries a real share of your daily fat, so it isn't optional anywhere.
 
@@ -53,9 +53,11 @@ Everything in this plan follows from these. If you remember nothing else, rememb
 | | What | Protein |
 |---|---|---|
 | **Morning** | 2 eggs · 60g cooked chicken breast · tomato · onion · 2 slices bread · 250ml non-fat milk · 2 tsp oil | 47g |
-| **Lunch** | Protein of the day · rice · kidney beans · vegetables · ½ banana | ~48g |
-| **Dinner** | The same as lunch, reheated | ~48g |
-| | | **~143g** |
+| **Lunch** | Protein of the day · rice · kidney beans · vegetables · ½ banana | ~50g |
+| **Dinner** | The same as lunch, reheated | ~50g |
+| | | **~147g** |
+
+That is Monday to Saturday. **On Sunday only breakfast follows the plan** — lunch and dinner are both free meals.
 
 The only thing that changes across the week is the protein at lunch and dinner. Breakfast never changes — its chicken is cooked in the same batches as everything else, so it adds no separate shopping trip and almost no extra work. The rice, beans, vegetables and banana never change.
 
@@ -63,7 +65,7 @@ The only thing that changes across the week is the protein at lunch and dinner. 
 
 ---
 
-## How Every Day Reaches 140g
+## How Every Day Reaches 145g
 
 Everything except the day's meat is fixed, seven days a week:
 
@@ -72,12 +74,12 @@ Everything except the day's meat is fixed, seven days a week:
 | Breakfast — 2 eggs, 60g cooked chicken, tomato, onion, 2 slices bread, 250ml non-fat milk, 2 tsp oil | 615 | **47** | 23 | 52 |
 | Meal base × 2 — rice 6g, beans 5g, vegetables 0g, ½ banana 0.5g | 963 | **23** | 3 | 203 |
 | **Fixed subtotal** | **1,578** | **70** | **26** | **255** |
-| Protein of the day × 2 servings, plus its oil | ~600 | **~74** | ~32 | 0 |
-| **Daily total** | **~2,178** | **~144** | **~58** | **~255** |
+| Protein of the day × 2 servings, plus its oil | ~620 | **~77** | ~33 | 0 |
+| **Daily total** | **~2,199** | **~147** | **~59** | **~255** |
 
-**70g arrives before the rotation** — exactly half the day's protein, from breakfast and the meal base alone. The two servings of the day's protein then add about 74g on top.
+**70g arrives before the rotation** — just under half the day's protein, from breakfast and the meal base alone. The two servings of the day's protein then add about 77g on top.
 
-**Strictly, each serving needs 35g.** The rotation sizes them at 36–37g, which lands a normal day at 142–144g rather than exactly 140. That 2–4g is the whole of your margin now — this plan no longer carries the large buffer it did at 155g, so a sloppy weighing costs you more than it used to. Weigh properly and the target looks after itself.
+**Strictly, each serving needs 37.5g.** The rotation sizes them at 38–38.5g, which lands a normal day at 146–148g rather than exactly 145. That 1–3g is the whole of your margin — this plan carries no real buffer beyond it, so a sloppy weighing costs you. Weigh properly and the target looks after itself.
 
 **The breakfast chicken is load-bearing.** With vegetables logged at zero and the beans now at 60g, breakfast supplies a third of your daily protein before you cook anything — and its 60g of chicken out-proteins the two eggs it sits with. Skipping it costs 18.5g a day and puts every day under target.
 
@@ -136,7 +138,7 @@ Dice the tomato and onion raw, salt them, let them sit while the eggs boil. Soft
 
 | Food | Amount | Cal | P | F | C |
 |---|---|---|---|---|---|
-| Protein of the day | see rotation — **~36g P** | — | — | — | — |
+| Protein of the day | see rotation — **~38g P** | — | — | — | — |
 | Steamed white rice, **cooked** | 240g | 312 | 6 | 1 | 67 |
 | Red kidney beans, canned, drained — *alternates weekly, see below* | 60g | 74 | 5 | 0.5 | 13.5 |
 | Vegetables, **cooked** | 200g | 40 | **0** | 0 | 7 |
@@ -162,11 +164,11 @@ The canned component in the base alternates week by week. **One week red kidney 
 | Steamed white rice, **cooked** | 240g | 240g — unchanged |
 | **Base total** | **481 cal · 11.5g P · 102g C** | **480 cal · 11g P · 102g C** |
 
-**It's a straight drop-in — nothing else moves.** Jolly mixed vegetables carry 9g of protein and 27g of total carbohydrate per 230g can. At 115g that's 4.5g of protein and 13.5g of carbs, against the kidney beans' 5g and 13.5g: **the carbohydrate matches to the gram** and the protein is half a gram light. Calories land within one of each other. The rice stays at 240g, the rotation stays the same, and **every daily total, the six-day average, Sunday's budget and the ~1,125 cal free-lunch figure hold across both weeks.**
+**It's a straight drop-in — nothing else moves.** Jolly mixed vegetables carry 9g of protein and 27g of total carbohydrate per 230g can. At 115g that's 4.5g of protein and 13.5g of carbs, against the kidney beans' 5g and 13.5g: **the carbohydrate matches to the gram** and the protein is half a gram light. Calories land within one of each other. The rice stays at 240g, the rotation stays the same, and **every daily total, the six-day average and Sunday's budget hold across both weeks.**
 
 **One can a day, 115g at lunch and 115g at dinner.** That's 7 cans a week. Unlike the beans there is no half-can left in the fridge: the 230g can is exactly one day, which makes these weeks slightly less fiddly rather than more.
 
-> **The one real cost: vegetable weeks run 1g a day lower on protein.** Two servings at 4.5g instead of 5g takes the day from 142–144g down to 141–143g. Still above the 140g target, but it spends a third of your margin — so on these weeks in particular, weigh the chicken properly.
+> **The one real cost: vegetable weeks run 1g a day lower on protein.** Two servings at 4.5g instead of 5g takes the day from 146–148g down to 145–147g. Still at or above the 145g target, but it spends a third of your margin — so on these weeks in particular, weigh the chicken properly.
 
 **Why alternate at all.** Variety, mostly — and the mix brings vitamin A from the carrots, which nothing else in the plan supplies in quantity. What it does not bring is fibre: 115g of mixed vegetables carries roughly 3g against the beans' 4.5g, so vegetable weeks run about 3g a day lower on an already thin fibre total. See the fibre note in [Kitchen and Safety Notes](#kitchen-and-safety-notes).
 
@@ -192,31 +194,30 @@ All three are interchangeable — swap freely, the macro difference is negligibl
 
 ### Per serving, cooked weight
 
-Every row carries about 36g of protein. That's the column that matters. Each serving is eaten twice — once at lunch, once at dinner — **including Tuesday**, which is now one can of tuna at each meal rather than two different foods.
+Every row carries about 38g of protein — Tuesday's 36g is the one exception. Each serving is eaten twice, once at lunch and once at dinner.
 
 | Day | Protein | Per serving, **cooked** | Cal | **P** | F | C | Oil |
 |---|---|---|---|---|---|---|---|
-| **Mon** | Chicken breast | 120g | 198 | **37** | 4 | 0 | 3 tsp |
+| **Mon** | Chicken breast | 125g | 206 | **38.5** | 4 | 0 | 3 tsp |
 | **Tue** | Mega tuna flakes in oil, **drained** | 1 can (155g net → ~120g drained) | 190 | **36** | 5 | 0 | 1 tsp |
-| **Wed** | Chicken breast | 120g | 198 | **37** | 4 | 0 | 3 tsp |
-| **Thu** | Cream dory | 190g | 219 | **36** | 7 | 0 | 2 tsp |
-| **Fri** | Chicken breast | 120g | 198 | **37** | 4 | 0 | 3 tsp |
-| **Sat** | Chicken breast | 120g | 198 | **37** | 4 | 0 | 3 tsp |
-| **Sun** | Chicken breast, dinner only | 190g | 313 | **59** | 7 | 0 | 3 tsp |
+| **Wed** | Chicken breast | 125g | 206 | **38.5** | 4 | 0 | 3 tsp |
+| **Thu** | Cream dory | 200g | 231 | **38** | 7 | 0 | 2 tsp |
+| **Fri** | Chicken breast | 125g | 206 | **38.5** | 4 | 0 | 3 tsp |
+| **Sat** | Chicken breast | 125g | 206 | **38.5** | 4 | 0 | 3 tsp |
 
 ### Notes on each protein
 
-**Chicken breast — Mon, Wed, Fri, Sat, Sun.** Four weekdays plus Sunday dinner. At 31g protein per 100g cooked it is the densest protein in the plan and, at 5.3 calories per gram of protein, now also the most efficient — which is why the serving is the smallest and why it carries most of the week. It is also the leanest meat you eat: 4g of fat per serving with nothing protecting it, so without oil it sticks to the pan and then dries out before the centre is safe.
+**Chicken breast — Mon, Wed, Fri, Sat.** Four days of the rotation plus every breakfast. At 31g protein per 100g cooked it is the densest protein in the plan and, at 5.3 calories per gram of protein, now also the most efficient — which is why the serving is the smallest and why it carries most of the week, breakfast included. It is also the leanest meat you eat: 4g of fat per serving with nothing protecting it, so without oil it sticks to the pan and then dries out before the centre is safe.
 
-**Tuna — Tue.** One can per meal, two cans a day, **drained**. One can lands on 36g of protein almost exactly, which is why Tuesday needs no arithmetic — open a can, drain it, that's a serving.
+**Tuna — Tue.** One can per meal, two cans a day, **drained**, and nothing else. A can lands on 36g of protein, so Tuesday runs about 5g under the other days — close enough to the target that it needs no topping up, and the only day of the week you cook nothing at all.
 
 > **Draining is a real cost, and it's a choice you're making.** The can holds ~11g of fat as packed; pouring the oil off leaves roughly 5g and takes about 55 calories with it. That's why Tuesday is the leanest day of the week at 45g of fat, 20% of calories. It's an acceptable single day — the week averages 59g — but if you ever want it evened out, eating the can undrained is the fix, not more cooking oil.
 
-> **Tuesday needs no cooking.** Open and drain one can per meal, fold it through the rice, beans and vegetables. The 1 tsp of oil per meal goes into the vegetables, not the fish.
+> **Tuesday needs no cooking.** Open and drain one can per meal and fold it through the rice, beans and vegetables. The 1 tsp of oil per meal goes into the vegetables, not the fish.
 
-**Cream dory — Thu.** Sold as cream dory, pangasius or river cobbler — all the same fish. It is the least protein-dense food in the plan at **19g per 100g cooked**, against chicken breast's 31g, which is why the serving is the biggest of the week at 190g. It is also very lean: 7g of fat per serving, closer to chicken breast than to the bangus it replaces, so it gets **2 tsp** rather than the 1 tsp a fatty fish needs. Pan it over medium heat and don't crowd it — the fillets shed water and will steam rather than brown if you do.
+**Cream dory — Thu.** Sold as cream dory, pangasius or river cobbler — all the same fish. It is the least protein-dense food in the plan at **19g per 100g cooked**, against chicken breast's 31g, which is why the serving is the biggest of the week at 200g. It is also very lean: 7g of fat per serving, closer to chicken breast than to the bangus it replaces, so it gets **2 tsp** rather than the 1 tsp a fatty fish needs. Pan it over medium heat and don't crowd it — the fillets shed water and will steam rather than brown if you do.
 
-> **Weigh it cooked, and expect to lose more than you would with other fish.** Cream dory fillets are usually sold frozen and often ice-glazed or phosphate-treated, so 190g cooked can come from 250g of raw fillet or considerably more. The plan's weigh-cooked rule handles this automatically; a raw target would not.
+> **Weigh it cooked, and expect to lose more than you would with other fish.** Cream dory fillets are usually sold frozen and often ice-glazed or phosphate-treated, so 200g cooked can come from 265g of raw fillet or considerably more. The plan's weigh-cooked rule handles this automatically; a raw target would not.
 
 > **This is the plan's one nutritional step down.** Cream dory carries very little long-chain omega-3, where bangus was a genuine source of it — and with sardines already out, nothing in the plan now supplies much. It costs nothing in protein, calories or cost, so it isn't a reason to change back; but a fish-oil capsule is the cheap fix if you want one, and it belongs on the same shelf as the calcium tablet.
 
@@ -246,12 +247,12 @@ The rotation numbers assume:
 
 | Protein | Cooked per serving | ≈ Raw equivalent | What's lost |
 |---|---|---|---|
-| Chicken breast | 120g (190g Sunday) | ~160g (~255g) | ~25% water |
+| Chicken breast | 125g | ~165g | ~25% water |
 | Chicken breast, breakfast | 60g | ~80g | ~25% water |
-| Cream dory | 190g | ~250g | ~25% water, more if ice-glazed |
+| Cream dory | 200g | ~265g | ~25% water, more if ice-glazed |
 | Tuna, drained | ~120g = 1 can (155g net) | n/a | already cooked; oil poured off |
 
-**Why this matters more than anything else in the plan.** Cooked chicken breast is 31g protein per 100g; raw is 22.5g per 100g. Same piece of meat, different denominator. **Weigh 120g raw and log it against the cooked row and you get about 27g of protein instead of 37 — 20g off your day, four days a week.** At 140g with only 2–4g of headroom, that single mistake breaks the plan outright.
+**Why this matters more than anything else in the plan.** Cooked chicken breast is 31g protein per 100g; raw is 22.5g per 100g. Same piece of meat, different denominator. **Weigh 125g raw and log it against the cooked row and you get about 28g of protein instead of 38.5 — 21g off your day, four days a week.** At 145g with only 1–3g of headroom, that single mistake breaks the plan outright.
 
 Rice works the opposite way and is also weighed cooked, because it *gains* water instead of losing it.
 
@@ -267,13 +268,13 @@ Rice works the opposite way and is also weighed cooked, because it *gains* water
 
 | Day | Cook | Buy (raw) |
 |---|---|---|
-| **Mon** | 240g cooked chicken breast + **120g breakfast chicken (Mon–Tue)** | ~480g |
+| **Mon** | 250g cooked chicken breast + **120g breakfast chicken (Mon–Tue)** | ~495g |
 | **Tue** | No cooking — 1 can tuna, drained, at each meal | 2 tuna cans |
-| **Wed** | 240g cooked chicken breast + **120g breakfast chicken (Wed–Thu)** | ~480g |
-| **Thu** | 380g cooked cream dory | ~500g |
-| **Fri** | 240g cooked chicken breast + **120g breakfast chicken (Fri–Sat)** | ~480g |
-| **Sat** | 240g cooked chicken breast + **60g breakfast chicken (Sun)** | ~400g |
-| **Sun** | 190g cooked chicken at dinner | ~255g |
+| **Wed** | 250g cooked chicken breast + **120g breakfast chicken (Wed–Thu)** | ~495g |
+| **Thu** | 400g cooked cream dory | ~550g |
+| **Fri** | 250g cooked chicken breast + **120g breakfast chicken (Fri–Sat)** | ~495g |
+| **Sat** | 250g cooked chicken breast + **60g breakfast chicken (Sun)** | ~415g |
+| **Sun** | Nothing — breakfast only, from Saturday's block | — |
 
 Every line is the rotation's per-serving cooked weight doubled, plus that block's breakfast chicken on the four chicken days. **Tuesday is the exception only in that there is nothing to cook** — two cans, one per meal.
 
@@ -308,11 +309,11 @@ Every line is the rotation's per-serving cooked weight doubled, plus that block'
 | Thu | 2 tsp | 2 tsp | 2 tsp | 6 tsp |
 | Fri | 2 tsp | 3 tsp | 3 tsp | 8 tsp |
 | Sat | 2 tsp | 3 tsp | 3 tsp | 8 tsp |
-| Sun | 2 tsp | free meal | 3 tsp | 5 tsp |
+| Sun | 2 tsp | free meal | free meal | 2 tsp |
 
 **Breakfast gets 2 tsp, seven days a week.** This is the one line in the table you cannot drop. It replaces the fat that left with the two eggs, and it is the difference between a 59g average and a 50g one. Two teaspoons in a pan holding two eggs, 60g of chicken and a tomato is a normal ginisa, not a greasy one.
 
-**Chicken days get 3 tsp a meal.** Partly the chicken needs it — it's the leanest meat in the plan — and partly because those days are lowest in fat from the food itself, so the oil is what holds them near the target band. At 120g of chicken plus 200g of vegetables in the pan, 3 tsp is a normal ginisa, not a greasy one.
+**Chicken days get 3 tsp a meal.** Partly the chicken needs it — it's the leanest meat in the plan — and partly because those days are lowest in fat from the food itself, so the oil is what holds them near the target band. At 125g of chicken plus 200g of vegetables in the pan, 3 tsp is a normal ginisa, not a greasy one.
 
 **Cream dory gets 2 tsp** a meal on Thursday. At 7g of fat a serving it is nearly as lean as chicken breast and brings almost nothing of its own to the pan — the 1 tsp that suited a fatty bangus would leave Thursday at 50g of fat and drag the six-day average below band.
 
@@ -320,7 +321,7 @@ Every line is the rotation's per-serving cooked weight doubled, plus that block'
 
 **Wednesday is a chicken day now**, so it takes the full 3 tsp a meal like Monday, Friday and Saturday. The old no-oil Wednesday belonged to the giniling, which has left the plan.
 
-**About 47 tsp — 212g — a week.** A 1L bottle of canola lasts just under five weeks. Weekly use went up even though no rule changed, because Wednesday and Friday are both chicken days now.
+**About 44 tsp — 198g — a week.** A 1L bottle of canola lasts about five weeks.
 
 ---
 
@@ -334,71 +335,59 @@ Each macro cell shows **grams · share of that day's calories**.
 
 | Day | Cal | Protein | Fat | Carbs |
 |---|---|---|---|---|
-| **Mon** — chicken | 2,214 | **144g** · 27% | 62g · 26% | 255g · 47% |
-| **Tue** — tuna, drained | 2,038 | **142g** · 28% | 45g · 21% | 255g · 51% |
-| **Wed** — chicken | 2,214 | **144g** · 27% | 62g · 26% | 255g · 47% |
-| **Thu** — cream dory | 2,176 | **142g** · 27% | 59g · 25% | 255g · 48% |
-| **Fri** — chicken | 2,214 | **144g** · 27% | 62g · 26% | 255g · 47% |
-| **Sat** — chicken | 2,214 | **144g** · 27% | 62g · 26% | 255g · 47% |
-| **Sun** — ride + free lunch + chicken dinner | ~2,710 | **~160g** · 25% | ~90g · 32% | ~280g · 44% |
-| **Six-day average (Mon–Sat)** | **2,178** | **144g · 27%** | **58g · 25%** | **255g · 48%** |
-| **True 7-day average** | **2,254** | **146g · 27%** | **63g · 26%** | **259g · 47%** |
+| **Mon** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
+| **Tue** — tuna, drained | 2,039 | **142g** · 28% | 45g · 20% | 255g · 50% |
+| **Wed** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
+| **Thu** — cream dory | 2,200 | **146g** · 27% | 59g · 25% | 255g · 48% |
+| **Fri** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
+| **Sat** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
+| **Sun** — ride + breakfast + two free meals *(estimate)* | ~2,725 | **~120g** · 18% | ~105g · 35% | ~310g · 47% |
+| **Six-day average (Mon–Sat)** | **2,193** | **146g · 27%** | **59g · 25%** | **255g · 48%** |
+| **True 7-day average** | **2,269** | **142g · 26%** | **65g · 26%** | **263g · 48%** |
 
 | Against target | Protein | Fat | Carbs |
 |---|---|---|---|
-| **Target** | 140g | 60–70g | ~255g |
-| **Six-day actual** | 144g — 4g over | 58g — 2g under | 255g — on it |
+| **Target** | 145g | 60–70g | ~255g |
+| **Six-day actual** | 146g — 1g over | 59g — 1g under | 255g — on it |
 
 **How the percentages are worked.** Each is that macro's calories — 4 per gram for protein and carbs, 9 for fat — as a share of the three added together, so every row sums to 100. That total lands 2–3% below the calorie column, which comes from food labels: labels account for fibre and don't use flat 4/4/9 factors. The gap is rounding in the source data, not an error in either figure.
 
-**Protein runs 2.0–2.1g per kg of bodyweight** every single day — 26–28% of calories. That's inside the 1.6–2.2g/kg range the evidence supports for building muscle while losing fat, which is the whole job this plan has.
+**Protein runs 1.95–2.05g per kg of bodyweight** every day — 27–28% of calories. That's inside the 1.6–2.2g/kg range the evidence supports for building muscle while losing fat, which is the whole job this plan has.
 
 **The split you're running is about 27 / 25 / 48** — protein, fat, carbs. A conventional distribution for a lifter eating at maintenance. There is nothing in it that needs fixing.
 
-**Every day lands at 142–144g against a 140g target** — 141–143g on mixed-vegetable weeks, a gram tighter. That is a 1–4g margin, not the 12–19g the plan used to carry. It is enough for ordinary variation and not enough for a careless weighing.
+**Every day lands at 146–148g against a 145g target** — 145–147g on mixed-vegetable weeks, a gram tighter. That is a 1–3g margin, not the 12–19g the plan used to carry. It is enough for ordinary variation and not enough for a careless weighing. **Tuesday is the deliberate exception at 142g**, three short on two cans of tuna and no meat to cook.
 
-**Against the targets:** the 7-day average of 2,254 is your estimated maintenance exactly — six days slightly under, Sunday over, netting to zero. Protein 144g, carbs 255g, both on target.
+**Against the targets:** the 7-day average of 2,269 sits within five calories of your estimated maintenance at 160 lbs — six days slightly under, Sunday over. Protein averages 142g against the 145g target, and Sunday is the whole of that gap.
 
-**Fat sits at 58g, about 2g under the 60–70g band.** That band was rescaled downward with the calories: 58g is 25% of intake, the same share the old plan ran at 63g and 2,311 calories. It's 0.8g per kg of bodyweight, well clear of any physiological minimum. If you'd rather be mid-band, a fourth teaspoon of oil on the four chicken days brings the average to 61g.
+**Fat sits at 59g, about 1g under the 60–70g band.** That band was rescaled downward with the calories: 59g is 25% of intake, the same share the old plan ran at 63g and 2,311 calories. It's 0.8g per kg of bodyweight, well clear of any physiological minimum. If you'd rather be mid-band, a fourth teaspoon of oil on the four chicken days brings the average to 62g.
 
-**Tuesday is the leanest day by a distance — 45g of fat, 21% of calories, against 26% on chicken days.** That's the drained tuna: pouring the oil off costs about 12g of fat across the day. The slack goes to carbs, which reach 51% on Tuesday against 47% elsewhere. One lean day is harmless when the week averages 25%, but it's the reason the six-day fat figure sits below band. Eating the cans undrained would fix it and add ~110 calories.
+**Tuesday is the leanest day by a distance — 45g of fat, 20% of calories, against 26% on chicken days.** That's the drained tuna: pouring the oil off costs about 12g of fat across the day. The slack goes to carbs, which reach 50% on Tuesday against 47% elsewhere. One lean day is harmless when the week averages 25%, but it's the reason the six-day fat figure sits below band. Eating the cans undrained would fix it and add ~110 calories.
 
-**The number to watch is the 7-day average of 2,254 cal.** That is your estimated maintenance at 155 lbs, which is exactly where a recomp belongs — not a deficit. Six days at ~2,178 and one Sunday at ~2,710 net out to it.
+**The number to watch is the 7-day average of 2,269 cal.** That is your estimated maintenance at 160 lbs, which is exactly where a recomp belongs — not a deficit. Six days at ~2,193 and one Sunday at ~2,725 net out to it.
 
 **If you feel flat on lifting or cycling days**, add 80g cooked rice per meal (~+210 cal). It costs nothing in protein.
 
-**Sunday is the ride day.** Its ~2,710 is not a cheat on top of maintenance — it is the ride's ~770 calories, banked out of the six weekdays and spent in one place. See [Sunday](#sunday).
+**Sunday is the ride day and the untracked one.** Its ~2,725 is not a cheat on top of maintenance — it is the ride's ~770 calories, banked out of the six weekdays and spent there. The figures in its row are an estimate of two ordinary meals out, not a prescription. See [Sunday](#sunday).
 
 ---
 
 ## Sunday
 
-One free meal at lunch, and the day you ride. Breakfast and dinner as normal, no tracking on the free meal.
+**Breakfast is the only tracked meal.** Lunch and dinner are both free — nothing to cook, nothing to weigh. It's also the day you ride.
 
-**Sunday is bigger than the other days on purpose.** Your 34 km ride burns roughly 770 calories above resting. Rather than smearing that across the week, the six weekdays run at ~2,178 — a little under maintenance — and the whole banked amount lands here. The week still averages 2,254. Ride in the morning and eat the free lunch after: post-ride is when your muscles are most glycogen-depleted and best able to absorb a large carb-heavy meal.
-
-**Sunday is the only day where the 140g target depends on something you aren't tracking.** Here's exactly where it stands:
+**Sunday is bigger than the other days on purpose.** Your 34 km ride burns roughly 770 calories above resting. Rather than smearing that across the week, the six weekdays run at ~2,193 — a little under maintenance — and the whole banked amount lands here. The week still averages 2,269. Ride in the morning and eat after: post-ride is when your muscles are most glycogen-depleted and best able to absorb a large carb-heavy meal.
 
 | | Cal | **Protein** |
 |---|---|---|
 | Breakfast | 615 | 47 |
-| Dinner — base + **whole banana** + 190g cooked chicken + 3 tsp oil | 970 | 71 |
-| **Before the free lunch** | **1,585** | **118** |
-| **The free lunch has** | **~1,125 cal** | and must carry **22g** |
+| **The two free meals have** | **~2,110 cal** | whatever they carry |
 
-**Eat the whole banana at Sunday dinner** rather than splitting it — lunch is a free meal and doesn't need half a banana attached to it.
+**Sunday lands short of 145g, and that's the trade.** Breakfast brings 47g; two ordinary meals out bring 60–80g between them, which puts the day near 120g. The week still averages 142g — 1.9g per kg, inside the range that matters — because the other six days are on target. Ordering something meat-led at both meals keeps it there; two dessert-led or meatless meals are what would actually cost you.
 
-**Sunday's dinner chicken is the largest of the week at 190g cooked.** That, plus a breakfast carrying 47g, pulls the protein requirement on the free lunch down to just 22g while leaving it ~1,125 calories to play with.
+**~2,110 calories across two meals is roomier than it sounds, and it still binds.** A 2-pc Chickenjoy with rice and a drink is about 900; a large sisig with two cups of rice, a full bowl of tonkotsu ramen with gyoza, four slices of a large pizza — any two of those fit. Crispy pata plus dessert and a second soda does not. Filipino restaurant portions pass 1,500 without effort.
 
-**22g is covered by almost any savoury restaurant meal** — a burger, two pieces of fried chicken, sisig, lechon kawali, tapa, ramen. Only a genuinely meatless cheat would miss it: a plate of pasta in cream sauce, pizza with no meat topping, or anything dessert-led.
-
-**~1,125 calories is the number that actually binds.** For scale: a 2-pc Chickenjoy with rice and a drink and room left over, a large sisig with two cups of rice, four slices of a large pizza, or a full bowl of tonkotsu ramen with gyoza. What it still does not cover is crispy pata, or any of those plus dessert and a second soda — Filipino restaurant portions pass 1,500 without effort. The longer ride bought you about 170 calories here; it did not make the budget unlimited.
-
-**If that's the kind of meal you want:** add a can of drained tuna to Sunday dinner (+36g protein) and the day clears 140 no matter what you ate at lunch. Keep a spare can for exactly this.
-
-**Expect the scale up 4–6 lbs on Monday morning.** More than the old plan warned about, because the ride empties your glycogen and it refills with roughly 3g of water per gram — on top of the free meal's sodium and carbs. It is water. It clears by Wednesday. Reacting to it is the easiest way to talk yourself out of a plan that is working.
-
-**If you'd rather have a full free day**, bank for it: pull 80g of cooked rice from each meal on the six other days — twelve portions at ~104 cal, about 1,250 calories saved to spend.
+**Expect the scale up 4–6 lbs on Monday morning.** The ride empties your glycogen and it refills with roughly 3g of water per gram, on top of the day's sodium and carbs. It is water. It clears by Wednesday. Reacting to it is the easiest way to talk yourself out of a plan that is working.
 
 ---
 
@@ -412,15 +401,15 @@ Order in bulk, monthly. These are the only shelf-stable lines in the plan.
 
 | Item | Qty/week | Cal/100g | P | F | C | Plan serving (cal / P / F / C) | Cost |
 |---|---|---|---|---|---|---|---|
-| Molinera red kidney beans, canned 400g | 4 cans — **bean weeks only** | 124 | 8.3 | 0.8 | 22.5 | 60g drained = 74 / 5 / 0.5 / 13.5 | ₱220 |
-| Jolly mixed vegetables, 230g | 7 cans — **vegetable weeks only** | 64 | 3.9 | ~0.1 | 11.7 | 115g drained = 73 / 4.5 / 0 / 13.5 | ~₱280 |
-| Mega tuna flakes in oil, 155g | 3 cans | 157 | 23.2 | 7.1 | 0 | 1 can drained = 190 / 36 / 5 / 0 | ₱120 |
+| Molinera red kidney beans, canned 400g | 3 cans — **bean weeks only** | 124 | 8.3 | 0.8 | 22.5 | 60g drained = 74 / 5 / 0.5 / 13.5 | ₱165 |
+| Jolly mixed vegetables, 230g | 6 cans — **vegetable weeks only** | 64 | 3.9 | ~0.1 | 11.7 | 115g drained = 73 / 4.5 / 0 / 13.5 | ~₱240 |
+| Mega tuna flakes in oil, 155g | 2 cans | 157 | 23.2 | 7.1 | 0 | 1 can drained = 190 / 36 / 5 / 0 | ₱80 |
 | **Non-fat milk 1L** | 2 boxes | 35 /100ml | 3.4 | 0.1 | 5.0 | 250ml = 88 / 8.5 / 0 / 13 | ₱220 |
-| | | | | | | | **₱560 bean week · ~₱620 vegetable week** |
+| | | | | | | | **₱465 bean week · ~₱540 vegetable week** |
 
-**Buy only one of the first two lines each week** — beans or mixed vegetables, never both. The ₱280 for the Jolly is an estimate at ~₱40 a can; check it, since 7 cans makes the price matter more than the beans' 4 did.
+**Buy only one of the first two lines each week** — beans or mixed vegetables, never both. The ₱240 for the Jolly is an estimate at ~₱40 a can; check it, since 6 cans makes the price matter more than the beans' 3 do.
 
-**Where the cans go:** 2 tuna to Tuesday, 1 spare for Sunday dinner. On bean weeks the beans are half a can a day, so 4 cans cover the week with a little over; on vegetable weeks it's one 230g can a day, so 7 exactly. Milk is 1.75L a week. **Sardines and giniling have left the plan** — don't buy them.
+**Where the cans go:** both tuna to Tuesday. The canned component runs Monday to Saturday only — half a bean can a day, so 3 cans exactly; one 230g can of mixed vegetables a day, so 6. Milk is 1.75L a week. **Sardines and giniling have left the plan** — don't buy them.
 
 **On the shelf, check:**
 - **Milk** — it must say **non-fat**, **skim** or **fat-free**, and the protein should read **3.2–3.5g per 100ml**. Watch for two impostors: "filled milk" and "milk drink" are ~2g protein per 100ml with coconut oil added, and "low-fat" is not the same as non-fat (it keeps 1.5–2% fat). Also check the label for added sugar — some non-fat milks add it back for palatability, which would push the carbs above the 13g per serving assumed here.
@@ -436,19 +425,19 @@ Order in bulk, monthly. These are the only shelf-stable lines in the plan.
 | Whole wheat bread | 1 loaf (~20 slices) | 246 | 12.0 | 3.0 | 43.0 | 2 slices, 65g = 160 / 8 / 2 / 28 | ₱100 |
 | Rice, dry | 5 kg | 365 dry · 130 cooked | 7.1 · 2.7 | 0.7 · 0.3 | 80 · 28 | 240g cooked = 312 / 6 / 1 / 67 | ₱280 |
 | Canola oil | 1 L | 884 | 0 | 100 | 0 | 3 tsp, 13.5g = 120 / 0 / 13.5 / 0 | ₱110 |
-| Chicken breast | 2.1 kg raw | — | — | — | — | ~480g × 3 + ~400g + Sunday ~255g | ₱840 |
-| Cream dory | 500g raw | — | — | — | — | Thursday batch → 380g cooked | ~₱125 |
-| | | | | | | | **₱1,580** |
+| Chicken breast | 1.9 kg raw | — | — | — | — | ~495g × 3 + ~415g | ₱760 |
+| Cream dory | 550g raw | — | — | — | — | Thursday batch → 400g cooked | ~₱140 |
+| | | | | | | | **₱1,515** |
 
-**Eggs are a fortnightly buy** — 14 a week, so one tray of 30 covers two weeks with two spare. Bread lasts ~10 days, rice ~29 days, oil ~5 weeks.
+**Eggs are a fortnightly buy** — 14 a week, so one tray of 30 covers two weeks with two spare. Bread lasts ~10 days, rice ~34 days, oil ~5 weeks.
 
 **On the shelf, check:**
 - **Bread** — whole wheat flour must be the **first ingredient**. Many loaves sold as whole wheat are refined flour with molasses for colour, and read closer to 8g protein and 50g carbs per 100g. Weigh two slices once and adjust the 65g.
 - **Rice** — the two figures above are dry and cooked. You buy dry; you weigh cooked.
 - **Canola oil** — the bottle should say canola only, not "vegetable oil" or a canola blend, which is usually mostly palm. Every oil is 884 cal and 100g of fat per 100g, so a blend wouldn't change a single number in this plan — canola is specified for its fat profile, not its calories.
-- **Cream dory** — sold frozen as fillets, often in 1kg packs, so one pack covers two Thursdays. Check whether the pack weight is **net** or includes ice glaze; a heavily glazed pack can be 20% water you're paying for. Frozen is fine and easier to portion — just weigh it cooked, as the plan insists.
+- **Cream dory** — sold frozen as fillets, often in 1kg packs; at 550g a week one pack covers a Thursday and most of the next. Check whether the pack weight is **net** or includes ice glaze; a heavily glazed pack can be 20% water you're paying for. Frozen is fine and easier to portion — just weigh it cooked, as the plan insists.
 
-**Portion the chicken before it goes in the freezer.** Weigh out five packs when you get home — three at ~480g raw for Monday, Wednesday and Friday, one at ~400g for Saturday, one at ~255g for Sunday. The first four each carry that block's breakfast chicken on top of their own lunch and dinner. Supermarket trays run 800g–1kg, so you'll be splitting them anyway.
+**Portion the chicken before it goes in the freezer.** Weigh out four packs when you get home — three at ~495g for Monday, Wednesday and Friday, one at ~415g for Saturday. Each carries that block's breakfast chicken on top of its own lunch and dinner. Supermarket trays run 800g–1kg, so you'll be splitting them anyway.
 
 ### Wet market (palengke)
 
@@ -456,33 +445,33 @@ Produce only. Go early morning; it's usually 30–40% cheaper than the supermark
 
 | Item | Qty/week | Cal/100g | P | F | C | Notes | Cost |
 |---|---|---|---|---|---|---|---|
-| Lakatan bananas | 1 kg (~8 pcs) | 92 | 1.0 | 0.3 | 23.0 | ½ pc, 60g peeled = 55 / 0.5 / 0 / 14 | ₱120 |
+| Lakatan bananas | ~750g (6 pcs) | 92 | 1.0 | 0.3 | 23.0 | ½ pc, 60g peeled = 55 / 0.5 / 0 / 14 | ₱90 |
 | Tomatoes | 1 kg | — | — | — | — | A week of breakfasts | ₱80 |
 | Onions | 1 kg | — | — | — | — | 2 weeks | ₱100 |
 | Cabbage | 1 head | — | — | — | — | 4 days | ₱70 |
 | Kangkong | 4 bundles | — | — | — | — | Best calcium of the three | ₱60 |
-| Pechay | 4 bundles | — | — | — | — | Best calcium of the three | ₱60 |
+| Pechay | 3 bundles | — | — | — | — | Best calcium of the three | ₱45 |
 | Garlic, ginger | — | — | — | — | — | 2 weeks | ₱80 |
-| | | | | | | | **₱570** |
+| | | | | | | | **₱525** |
 
-One banana a day, eaten as two halves.
+One banana a day Monday to Saturday, eaten as two halves.
 
 ### The budget
 
 | | |
 |---|---|
-| **First week** | ~₱2,710 (includes the rice, oil and bread stock-up) |
-| **Following weeks** | ~₱2,200–2,400 bean weeks · ~₱2,260–2,460 vegetable weeks |
-| **Monthly** | roughly **₱9,400–10,000** |
+| **First week** | ~₱2,505 (includes the rice, oil and bread stock-up) |
+| **Following weeks** | ~₱1,995–2,195 bean weeks · ~₱2,070–2,270 vegetable weeks |
+| **Monthly** | roughly **₱8,500–9,400** |
 
-Sunday's free meal isn't in this budget — add whatever you plan to spend eating out.
+Sunday's two free meals aren't in this budget — add whatever you plan to spend eating out.
 
-**Where to save, cheapest first.** Chicken is by far the largest single line at ₱840 a week — it is now five of your seven days plus every breakfast. The whole grocery bill fell about ₱470 a week when sardines and giniling left and the beans halved.
-1. **Buy the chicken at the palengke** instead of the supermarket — roughly ₱670 for the 2.1kg, saving ~₱170 a week. Cream dory is frozen and priced much the same wherever you buy it.
+**Where to save, cheapest first.** Chicken is by far the largest single line at ₱760 a week — four of your seven days plus every breakfast. The whole grocery bill fell about ₱470 a week when sardines and giniling left and the beans halved.
+1. **Buy the chicken at the palengke** instead of the supermarket — roughly ₱605 for the 1.9kg, saving ~₱155 a week. Cream dory is frozen and priced much the same wherever you buy it.
 2. **Buy whole chicken** and portion it yourself; it beats breast per kilo either way.
 3. **Powdered non-fat milk** is usually 30–40% cheaper than boxed, with the same protein and calcium — ~₱80 a week.
 
-**Do not cut the breakfast chicken or the meat portions.** Both are load-bearing for the 140g, and the plan now runs on a 2–4g margin rather than the 12–19g it once had. The eggs and the beans were the parts with slack in them; that slack is spent.
+**Do not cut the breakfast chicken or the meat portions.** Both are load-bearing for the 145g, and the plan now runs on a 1–3g margin rather than the 12–19g it once had. The eggs and the beans were the parts with slack in them; that slack is spent.
 
 ---
 
@@ -510,9 +499,9 @@ Three ways to close the gap. **None of them touch the protein:**
 
 1. **A calcium supplement — the recommendation now.** About ₱3 a day for 500mg, which puts you at ~1,115mg. It used to be the least interesting answer on this list; with sardines gone it is the only one that fully closes a 385mg daily gap.
 2. **Use only kangkong and pechay, never cabbage** (+~50mg/day). Free, and worth doing anyway, but it closes an eighth of the gap.
-3. **Put sardines back on one day.** Swapping Thursday's cream dory for 70g cooked cream dory + 1 can sardines per serving would hold the 36g of protein, restore ~375mg of calcium that day, and bring the week back near where it was. You took sardines out deliberately — this is the door back in if the supplement doesn't appeal.
+3. **Put sardines back on one day.** Swapping Thursday's cream dory for 85g cooked cream dory + 1 can sardines per serving would hold the 38g of protein, restore ~375mg of calcium that day, and bring the week back near where it was. You took sardines out deliberately — this is the door back in if the supplement doesn't appeal.
 
-**Accepting ~615mg is a shortfall, not a deficiency**, and at 155 lbs with three lifting days a week the mechanical loading on your skeleton does more for bone density than the last 400mg of calcium would. But 615 is further below target than the plan has ever run, so this is now a real trade-off rather than a rounding error.
+**Accepting ~615mg is a shortfall, not a deficiency**, and at 160 lbs with three lifting days a week the mechanical loading on your skeleton does more for bone density than the last 400mg of calcium would. But 615 is further below target than the plan has ever run, so this is now a real trade-off rather than a rounding error.
 
 ---
 
@@ -536,25 +525,25 @@ Three ways to close the gap. **None of them touch the protein:**
 
 ## Where the Calorie Number Comes From
 
-**2,254 a day is your estimated maintenance — what you burn, not a deficit.** Eat it and you hold 155 lbs. That is the point: a recomp replaces fat with muscle at a stable bodyweight, so the scale not moving is the plan working, not the plan failing.
+**2,274 a day is your estimated maintenance — what you burn, not a deficit.** Eat it and you hold 160 lbs. That is the point: a recomp replaces fat with muscle at a stable bodyweight, so the scale not moving is the plan working, not the plan failing.
 
 | | Cal/day |
 |---|---|
-| BMR — Mifflin–St Jeor at 70.3 kg, 175 cm, age 27 | 1,670 |
+| BMR — Mifflin–St Jeor at 72.6 kg, 175 cm, age 27 | 1,690 |
 | Sedentary baseline — desk-bound, low step count | +350 |
 | 3 lifting sessions/week, ~290 net each, averaged over 7 days | +124 |
 | 1 ride/week, ~770 net, averaged over 7 days | +110 |
-| **Maintenance** | **~2,254** |
+| **Maintenance** | **~2,274** |
 
-Cross-checked against Katch–McArdle at ~16% body fat: 1,645. The two agree within 25 calories.
+Cross-checked against Katch–McArdle at ~16% body fat: 1,687. The two agree within 5 calories.
 
 **The ride, costed properly.** 34 km at 17 km/h is exactly 2 hours. Climbing 313 m takes 258 kJ, rolling resistance on knobby MTB tyres 336 kJ, air resistance 279 kJ — about 873 kJ of mechanical work, which at ~23% efficiency is ~905 calories gross and **~770 net** above what you'd have burned sitting. That averages 121 watts over the two hours, which is an honest endurance effort rather than a hard one. Use 770. Bike computers and Strava typically run 15–30% high on a mountain bike and usually report gross, so don't take their number.
 
 **Max elevation doesn't enter the calculation.** 307 m is the highest point you reach; 313 m is how much you climbed in total, and only the total costs energy. At that altitude air density is within 3% of sea level, which if anything makes the pedalling marginally easier.
 
-**Why it's a weekly average and not a daily one.** Energy balance settles over days and weeks; nothing resets at midnight. Six days at ~2,178 and one Sunday at ~2,710 net out to 2,254. That is what makes banking the ride's calories for Sunday's free lunch legitimate rather than wishful.
+**Why it's a weekly average and not a daily one.** Energy balance settles over days and weeks; nothing resets at midnight. Six days at ~2,193 and one Sunday at ~2,725 net out to 2,269. That is what makes banking the ride's calories for Sunday's free meals legitimate rather than wishful.
 
-**This estimate carries ±10%** — your true maintenance is somewhere in 2,030–2,480. Only your own data settles it: see [Tracking](#tracking). If you have ever held 155 lbs steady on a known intake, that number beats this arithmetic.
+**This estimate carries ±10%** — your true maintenance is somewhere in 2,045–2,500. Only your own data settles it: see [Tracking](#tracking). If you have ever held 160 lbs steady on a known intake, that number beats this arithmetic.
 
 **Expect it to drift upward.** As you add muscle and your sessions get heavier, expenditure creeps up. Recheck the calibration every two or three months.
 
@@ -566,7 +555,7 @@ Cross-checked against Katch–McArdle at ~16% body fat: 1,645. The two agree wit
 
 **Weigh yourself the same time each morning**, and only ever look at the seven-day average. Day-to-day swings of 2–4 lbs from water and food volume mean nothing.
 
-**Calibrate the calorie number in your first three weeks.** Eat 2,254 consistently, average your morning weights each week, and compare week 1 to week 3. Stable within a pound means the estimate is right. Losing steadily means add 150–200. Gaining steadily means subtract the same. Three weeks, not two — water and glycogen need time to wash out, and Sunday's 4–6 lb Monday bump has to average away.
+**Calibrate the calorie number in your first three weeks.** Eat 2,274 consistently, average your morning weights each week, and compare week 1 to week 3. Stable within a pound means the estimate is right. Losing steadily means add 150–200. Gaining steadily means subtract the same. Three weeks, not two — water and glycogen need time to wash out, and Sunday's 4–6 lb Monday bump has to average away.
 
 **The scale is designed not to move, so track the things that do:**
 
