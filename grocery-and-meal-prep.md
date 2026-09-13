@@ -19,7 +19,7 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 
 ## What the Week Needs
 
-**Raw weights — what you actually carry home.** The plan weighs meat, fish and rice *cooked*, so these are bigger than the numbers in the meal plan. Chicken and fish lose about 25% of their weight as water; rice nearly triples.
+**Raw weights — what you actually carry home.** The plan weighs meat, fish and rice *cooked*, so these are bigger than the numbers in the meal plan. Chicken and fish lose about 25% of their weight as water; rice nearly triples, and dry beans take on two and a half times theirs.
 
 | Ingredient | Raw, per week | Becomes | Where it goes |
 |---|---|---|---|
@@ -28,7 +28,7 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 | **Mega tuna flakes in oil, 155g** | **2 cans** | ~120g drained each | Tuesday — no cooking |
 | **Rice, dry** | **1.05 kg** | 2,880g cooked | 240g per meal, twelve meals |
 | **Cabbage** | **3.2 kg** | 2,400g cooked | 200g per meal |
-| **Red kidney beans, 400g can** | **3 cans** | 720g drained | bean weeks only |
+| **Red kidney beans, dry** | **300 g** | 720g cooked | bean weeks only |
 | **Jolly mixed vegetables, 230g** | **6 cans** | 1,380g drained | vegetable weeks only |
 | Eggs | 14 | — | breakfast, cooked fresh daily |
 | Tomato | 900 g | — | breakfast |
@@ -41,7 +41,7 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 
 **Rice and oil come out of the house stock**, so they aren't in the shopping list below. At 1.05 kg dry and 200 ml a week, a 5 kg sack and a 1L bottle each last about five weeks — check both at the start of the month rather than discovering it on a Sunday.
 
-**Buy beans or mixed vegetables, never both.** The canned component alternates week by week; either one covers Monday to Saturday on its own.
+**Buy beans or mixed vegetables, never both.** The two alternate week by week; either one covers Monday to Saturday on its own.
 
 **Cabbage, not kangkong or pechay.** All three are interchangeable on the plate, but only cabbage survives six days of storage and reheating — the leafy ones go slimy by Wednesday. If you want kangkong or pechay, cook them fresh on the day and leave them out of the prep; 200g cooked is about 400g raw either way.
 
@@ -50,6 +50,8 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 ## Sunday Prep
 
 Roughly 90 minutes, most of it unattended. Ride first, eat, then cook.
+
+**Put the beans on first.** 300g dry, soaked in plenty of water since Saturday night, the soaking water thrown out. Fresh water, **ten minutes at a hard rolling boil**, then simmer 45 minutes until tender and drain — you want ~720g. The hard boil is not optional: raw kidney beans carry a toxin that a low simmer concentrates instead of destroying, and this pot fills twelve containers.
 
 **Start the rice.** 1.05 kg dry in the rice cooker. It runs by itself while everything else happens.
 
@@ -109,22 +111,22 @@ Everything in this prep freezes well. Rice and chicken are unaffected. Cream dor
 
 **Macros are per 100g or 100ml, the way labels print them**, so you can hold two brands side by side on the shelf and compare. Raw meat and produce are left blank — there's no label to compare on those.
 
-### Shopee — canned goods and milk
+### Shopee — pantry and milk
 
 Order in bulk, monthly. These are the only shelf-stable lines in the plan.
 
 | Item | Qty/week | Cal/100g | P | F | C | Plan serving (cal / P / F / C) | Cost |
 |---|---|---|---|---|---|---|---|
-| Molinera red kidney beans, 400g | 3 cans — **bean weeks only** | 124 | 8.3 | 0.8 | 22.5 | 60g drained = 74 / 5 / 0.5 / 13.5 | ₱222 |
+| Red kidney beans, dry | 300 g — **bean weeks only** | 337 | 22.5 | 1.1 | 61.3 | 60g cooked = 74 / 5 / 0.5 / 13.5 | ₱56 |
 | Jolly mixed vegetables, 230g | 6 cans — **vegetable weeks only** | 64 | 3.9 | ~0.1 | 11.7 | 115g drained = 73 / 4.5 / 0 / 13.5 | ₱170 |
 | Mega tuna flakes in oil, 155g | 2 cans | 157 | 23.2 | 7.1 | 0 | 1 can drained = 190 / 36 / 5 / 0 | ₱74 |
 | Selecta non-fat milk, 1L | 2 boxes | 35 /100ml | 3.4 | 0.1 | 5.0 | 250ml = 88 / 8.5 / 0 / 13 | ₱148 |
-| | | | | | | | **₱444 bean · ₱392 veg** |
+| | | | | | | | **₱278 bean · ₱392 veg** |
 
 **On the shelf, check:**
 - **Milk** — it must say **non-fat**, **skim** or **fat-free**, and the protein should read **3.2–3.5g per 100ml**. Watch for two impostors: "filled milk" and "milk drink" are ~2g protein per 100ml with coconut oil added, and "low-fat" is not the same as non-fat (it keeps 1.5–2% fat). Check for added sugar too — some non-fat milks add it back for palatability, which would push the carbs above the 13g per serving assumed here.
 - **Tuna** — the label should read 13g protein and 4g fat per 56g serving, at about 2.8 servings a can. That's what makes one can 36g of protein.
-- **Beans** — drained weight should be ~240g of a 400g can. Much less and it's mostly brine. Rinse them; it washes off ~40% of the canning sodium.
+- **Beans** — plain dried red kidney beans, nothing pre-seasoned and not a baked-bean mix. Beans that have sat in stock for a year never soften however long you boil them, so buy from somewhere that moves volume and don't lay in more than a couple of months at a time.
 - **Jolly mixed vegetables** — the 230g figure is drained weight, and the plan assumes 9g protein and **27g total carbohydrate** for the whole can. Read the *total* carbohydrate line, not the sugars line — sugars on these cans run around 9g, and using that figure would understate the carbs by two thirds.
 
 ### Supermarket
@@ -165,9 +167,9 @@ Produce only. Go early morning; it's usually 30–40% cheaper than the supermark
 
 | | |
 |---|---|
-| **Bean week** | ~₱1,870 |
+| **Bean week** | ~₱1,710 |
 | **Vegetable week** | ~₱1,820 |
-| **Monthly** | roughly **₱8,000** |
+| **Monthly** | roughly **₱7,600** |
 
 Rice and canola oil aren't in this — they come out of the house stock. Neither are Sunday's two meals out; add whatever you plan to spend.
 

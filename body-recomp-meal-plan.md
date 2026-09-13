@@ -121,7 +121,7 @@ Dice the tomato and onion raw, salt them, let them sit while the eggs boil. Soft
 |---|---|---|---|---|---|
 | Protein of the day | see rotation — **~38g P** | — | — | — | — |
 | Steamed white rice, **cooked** | 240g | 312 | 6 | 1 | 67 |
-| Red kidney beans, canned, drained — *alternates weekly, see below* | 60g | 74 | 5 | 0.5 | 13.5 |
+| Red kidney beans, **cooked** and drained — *alternates weekly, see below* | 60g | 74 | 5 | 0.5 | 13.5 |
 | Vegetables, **cooked** | 200g | 40 | **0** | 0 | 7 |
 | Lakatan banana | 60g peeled (½ large pc) | 55 | 0.5 | 0 | 14 |
 | **Base, before protein and oil** | | **481** | **11.5** | **1.5** | **102** |
@@ -130,17 +130,17 @@ Oil isn't in the base — it belongs to the protein, and is listed per-day in th
 
 **The banana.** Half with lunch, half with dinner. Slice it into the meal or eat it straight after — it makes no difference and it doesn't belong in the dish. Keep the second half cut-side down on a plate in the fridge; it'll discolour and taste no different. If that bothers you, buy 12 smaller bananas a week and eat a whole small one at each meal.
 
-**The beans.** 60g drained at lunch and 60g at dinner — half a can a day, so three Molinera 400g cans cover the week. **Weigh them drained** — the can is 400g gross but only ~240g of actual beans, and the numbers above are drained weight. Rinse them: it washes off ~40% of the canning sodium. All three cans are opened on Sunday and go straight into the containers. **Every other week the beans are replaced by mixed vegetables** — see the cycle below.
+**The beans.** 60g drained at lunch and 60g at dinner — 720g across the week, which is **300g dry**, soaked overnight and boiled on Sunday. **Weigh them cooked and drained** — dry beans take on two and a half times their weight in the pot, and the numbers above are cooked weight. They go into the containers with everything else. **Every other week the beans are replaced by mixed vegetables** — see the cycle below.
 
 **The rice.** 240g cooked is what ~86g dry becomes. Cooked white rice is 130 cal and 2.7g protein per 100g; dry is 365 cal and 7.1g per 100g. Never log a cooked weight against a dry figure. It stays at 240g on mixed-vegetable weeks too.
 
 ### The two-week bean and vegetable cycle
 
-The canned component in the base alternates week by week. **One week red kidney beans, the next week Jolly mixed vegetables** — green peas, corn and carrots — then back to beans. Nothing else in the plan changes: same protein rotation, same oil, same daily totals, same Sunday.
+The bean-or-vegetable component in the base alternates week by week. **One week red kidney beans, the next week Jolly mixed vegetables** — green peas, corn and carrots — then back to beans. Nothing else in the plan changes: same protein rotation, same oil, same daily totals, same Sunday.
 
 | Per serving | Bean week | Mixed-vegetable week |
 |---|---|---|
-| Canned component, **drained** | 60g kidney beans | **115g Jolly mixed vegetables** |
+| Bean or vegetable, **drained** | 60g kidney beans | **115g Jolly mixed vegetables** |
 | Cal · P · F · C from it | 74 · 5 · 0.5 · 13.5 | 73 · 4.5 · 0 · 13.5 |
 | Steamed white rice, **cooked** | 240g | 240g — unchanged |
 | **Base total** | **481 cal · 11.5g P · 102g C** | **480 cal · 11g P · 102g C** |
@@ -151,7 +151,7 @@ The canned component in the base alternates week by week. **One week red kidney 
 
 > **The one real cost: vegetable weeks run 1g a day lower on protein.** Two servings at 4.5g instead of 5g takes a normal day from 146–147g down to 145–146g — still on target, but it spends the whole margin, and it puts Tuesday at 141g. On these weeks in particular, weigh the chicken properly.
 
-**Why alternate at all.** Variety, mostly — and the mix brings vitamin A from the carrots, which nothing else in the plan supplies in quantity. What it does not bring is fibre: 115g of mixed vegetables carries roughly 2.5g against the beans' 3.5g, so vegetable weeks run about 2g a day lower on an already thin fibre total.
+**Why alternate at all.** Variety, mostly — and the mix brings vitamin A from the carrots, which nothing else in the plan supplies in quantity. What it does not bring is fibre: 115g of mixed vegetables carries roughly 2.5g against the beans' 4.5g, so vegetable weeks run about 4g a day lower on an already thin fibre total.
 
 **Why vegetables are logged at zero protein.** Cabbage, kangkong and pechay do contain 1.5–2.5g per 200g cooked, but it's incomplete protein and poorly absorbed next to egg and meat protein, so none of it is counted here. The breakfast tomato and onion are logged at zero for the same reason. Your true intake therefore runs 6–8g a day above what these tables say — that, plus the rice logged at 6g against a true 6.5g, is a margin in your favour.
 
