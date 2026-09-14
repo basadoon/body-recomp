@@ -33,8 +33,9 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 | Eggs | 14 | — | breakfast, cooked fresh daily |
 | Tomato | 900 g | — | breakfast |
 | Onion | 500 g | — | breakfast, and the pan |
-| Whole wheat bread | 1 loaf — 14 slices | — | breakfast |
-| Non-fat milk | 1.75 L — buy 2 × 1L | — | breakfast |
+| Whole wheat bread | 2 loaves — 28 slices | — | breakfast and merienda |
+| Non-fat milk | 3.5 L — buy 4 × 1L | — | breakfast and merienda |
+| Lily's peanut butter spread lite | ~225 g | — | merienda, 2 tbsp a day |
 | Lakatan bananas | 6 large | — | half at lunch, half at dinner |
 | Canola oil | ~205 ml | — | all of it at the Sunday cook, bar the breakfast pan |
 | Garlic, ginger | a head, a thumb | — | seasoning |
@@ -118,6 +119,8 @@ On vegetable weeks the 60g of beans becomes **115g of Jolly mixed vegetables** �
 
 **Bananas stay on the counter.** Half with lunch, half with dinner, cut on the day.
 
+**Merienda needs no prep.** Two slices of bread, 2 tbsp of peanut butter and 250ml of milk, assembled in the afternoon — nothing to portion on Sunday and nothing to reheat.
+
 ---
 
 ## Fridge or Freezer
@@ -148,13 +151,15 @@ Order in bulk, monthly. These are the only shelf-stable lines in the plan.
 | Red kidney beans, dry | 300 g — **bean weeks only** | 337 | 22.5 | 1.1 | 61.3 | 60g cooked = 74 / 5 / 0.5 / 13.5 | ₱56 |
 | Jolly mixed vegetables, 230g | 6 cans — **vegetable weeks only** | 64 | 3.9 | ~0.1 | 11.7 | 115g drained = 73 / 4.5 / 0 / 13.5 | ₱170 |
 | Mega tuna flakes in oil, 155g | 2 cans | 157 | 23.2 | 7.1 | 0 | 1 can drained = 190 / 36 / 5 / 0 | ₱74 |
-| Selecta non-fat milk, 1L | 2 boxes | 35 /100ml | 3.4 | 0.1 | 5.0 | 250ml = 88 / 8.5 / 0 / 13 | ₱148 |
-| | | | | | | | **₱278 bean · ₱392 veg** |
+| Selecta non-fat milk, 1L | 4 boxes | 35 /100ml | 3.4 | 0.1 | 5.0 | 250ml = 88 / 8.5 / 0 / 13 | ₱296 |
+| Lily's peanut butter spread lite | ~225 g | 594 | 23.4 | 39.0 | 37.5 | 2 tbsp, 32g = 190 / 7.5 / 12.5 / 12 | ₱90 |
+| | | | | | | | **₱516 bean · ₱630 veg** |
 
 **On the shelf, check:**
 - **Milk** — it must say **non-fat**, **skim** or **fat-free**, and the protein should read **3.2–3.5g per 100ml**. Watch for two impostors: "filled milk" and "milk drink" are ~2g protein per 100ml with coconut oil added, and "low-fat" is not the same as non-fat (it keeps 1.5–2% fat). Check for added sugar too — some non-fat milks add it back for palatability, which would push the carbs above the 13g per serving assumed here.
 - **Tuna** — the label should read 13g protein and 4g fat per 56g serving, at about 2.8 servings a can. That's what makes one can 36g of protein.
 - **Beans** — plain dried red kidney beans, nothing pre-seasoned and not a baked-bean mix. Beans that have sat in stock for a year never soften however long you boil them, so buy from somewhere that moves volume and don't lay in more than a couple of months at a time.
+- **Peanut butter** — **the macros above are an estimate and you should overwrite them from the jar.** Lite spreads vary a lot: some cut fat and add sugar back, so the carbs can run anywhere from 8g to 16g per 2 tbsp. Read the per-serving column, check what Lily's calls a serving in grams, and weigh 2 tbsp once to see whether it's really 32g.
 - **Jolly mixed vegetables** — the 230g figure is drained weight, and the plan assumes 9g protein and **27g total carbohydrate** for the whole can. Read the *total* carbohydrate line, not the sugars line — sugars on these cans run around 9g, and using that figure would understate the carbs by two thirds.
 
 ### Supermarket
@@ -164,8 +169,8 @@ Order in bulk, monthly. These are the only shelf-stable lines in the plan.
 | Chicken breast, raw | 2.7 kg | — | — | — | — | 125g cooked = 206 / 38.5 / 4.5 / 0 | ₱905 |
 | Cream dory, raw | 670 g | — | — | — | — | 200g cooked = 231 / 38 / 7.5 / 0 | ₱212 |
 | Eggs | 14 — buy a tray of 30 fortnightly | 144 | 12.0 | 10.0 | 0.5 | 2 eggs, 100g out of the shell = 144 / 12 / 10 / 0.5 | ₱175 |
-| Whole wheat bread | 1 loaf (~20 slices) | 246 | 12.0 | 3.0 | 43.0 | 2 slices, 65g = 160 / 8 / 2 / 28 | ₱88 |
-| | | | | | | | **₱1,380** |
+| Whole wheat bread | 2 loaves (~20 slices each) | 246 | 12.0 | 3.0 | 43.0 | 2 slices, 65g = 160 / 8 / 2 / 28 | ₱176 |
+| | | | | | | | **₱1,468** |
 
 **On the shelf, check:**
 - **Chicken** — S&R runs about ₱335/kg, the cheapest reliable source for the volume this plan eats. It is by far the largest line in the budget, so it's the only price worth shopping around on.
@@ -195,9 +200,9 @@ Produce only. Go early morning; it's usually 30–40% cheaper than the supermark
 
 | | |
 |---|---|
-| **Bean week** | ~₱2,020 |
-| **Vegetable week** | ~₱2,130 |
-| **Monthly** | roughly **₱9,000** |
+| **Bean week** | ~₱2,345 |
+| **Vegetable week** | ~₱2,460 |
+| **Monthly** | roughly **₱10,400** |
 
 Rice and canola oil aren't in this — they come out of the house stock. Neither are Sunday's two meals out; add whatever you plan to spend.
 
