@@ -5,7 +5,7 @@
 | Target | |
 |---|---|
 | **Protein** | **145g, Monday to Saturday** |
-| Calories | **~2,200 Mon–Sat · ~2,430 Sunday, untracked** — 7-day average **2,227** |
+| Calories | **~2,185 Mon–Sat · ~2,430 Sunday, untracked** — 7-day average **2,219** |
 | Fat | 60–70g |
 | Carbs | ~255g |
 
@@ -41,7 +41,7 @@ Everything in this plan follows from these. If you remember nothing else, rememb
 4. **Three meals a day.** Breakfast, lunch, dinner. Nothing between them. On Sunday only breakfast is tracked.
 5. **Lunch and dinner are identical, Monday to Saturday.** Both come out of containers you filled on Sunday — twelve of them, two a day. Tuesday's are the only ones with no meat in them; a can of tuna goes in at the meal.
 6. **Vegetables count as zero protein.** They're in the plan for volume and fibre.
-7. **Every meal gets oil** — 2 tsp at breakfast, 3 tsp on chicken, 2 tsp on cream dory, 1 tsp on tuna. With portions this size the oil carries a real share of your daily fat, so it isn't optional anywhere.
+7. **The oil goes on at Sunday's cook** — 18g on the breakfast chicken, 90g on the lunch and dinner chicken, 22.5g on the dory. Only the breakfast pan's 2 tsp and Tuesday's 1 tsp of tuna oil go in fresh. With portions this size the oil carries a real share of your daily fat, so it isn't optional anywhere.
 
 ---
 
@@ -68,11 +68,11 @@ Everything except the day's meat is fixed, Monday to Saturday:
 
 | Component | Cal | **Protein** | Fat | Carbs |
 |---|---|---|---|---|
-| Breakfast — 2 eggs, 60g cooked chicken, tomato, onion, 2 slices bread, 250ml non-fat milk, 2 tsp oil | 615 | **47** | 23 | 52 |
+| Breakfast — 2 eggs, 60g cooked chicken, tomato, onion, 2 slices bread, 250ml non-fat milk, oil | 637 | **47** | 25.5 | 52 |
 | Meal base × 2 — rice 6g, beans 5g, vegetables 0g, ½ banana 0.5g | 963 | **23** | 3 | 203 |
-| **Fixed subtotal** | **1,578** | **70** | **26** | **255** |
-| Protein of the day × 2 servings, plus its oil | ~615 | **~76** | ~33 | 0 |
-| **Daily total, averaged Mon–Sat** | **2,193** | **146** | **59** | **255** |
+| **Fixed subtotal** | **1,600** | **70** | **28.5** | **255** |
+| Protein of the day × 2 servings, plus its oil | ~584 | **~76** | ~29 | 0 |
+| **Daily total, averaged Mon–Sat** | **2,184** | **146** | **58** | **255** |
 
 **70g arrives before the rotation** — just under half the day's protein, from breakfast and the meal base alone. The two servings of the day's protein then add 72–77g on top.
 
@@ -94,14 +94,14 @@ Two eggs scrambled with chopped chicken breast, plus tomato, onion, bread and no
 | Onion | 55g (½ medium) | 22 | 0 | 0 | 5 |
 | Whole wheat bread | 65g (2 slices) | 160 | 8 | 2 | 28 |
 | Non-fat milk | 250ml | 88 | 8.5 | 0 | 13 |
-| Canola oil | 2 tsp (9g) | 80 | 0 | 9 | 0 |
-| **Total** | | **615** | **47** | **23** | **51.5** |
+| Canola oil | 2 tsp in the pan (9g) + 2.5g on the chicken | 102 | 0 | 11.5 | 0 |
+| **Total** | | **637** | **47** | **25.5** | **51.5** |
 
 **Tomato and onion are logged at zero protein**, the same as every other vegetable in this plan. They do carry about 2g between them; it isn't counted, and that's a margin in your favour.
 
-**Why 60g of chicken, and why the oil is not optional.** 60g of cooked chicken breast carries 18.5g of protein for 2g of fat and 99 calories — the most protein-efficient food in the plan, and more protein than the two eggs beside it. What it doesn't carry is fat, and non-fat milk carries none either: breakfast without oil lands at 14g of fat and takes the six-day average down to 50g, below the band. **The 2 tsp is what keeps that table in band.** You cook the eggs in it anyway, so it costs no effort.
+**Why 60g of chicken, and why the oil is not optional.** 60g of cooked chicken breast carries 18.5g of protein for 2g of fat and 99 calories — the most protein-efficient food in the plan, and more protein than the two eggs beside it. What it doesn't carry is fat, and non-fat milk carries none either: breakfast without oil lands at 16.5g of fat and takes the six-day average down to 49g, below the band. **The 2 tsp is what keeps that table in band.** You cook the eggs in it anyway, so it costs no effort.
 
-**60g cooked is roughly 80g raw** — about a quarter of a supermarket breast fillet. A week of it comes off Sunday's air fryer batch, seasoned with nothing but salt and pepper, and lives chopped in its own tub — the morning pan only has to warm it through.
+**60g cooked is roughly 105g raw** — about a third of a supermarket breast fillet. A week of it comes off Sunday's air fryer batch, seasoned with nothing but salt and pepper, and lives chopped in its own tub — the morning pan only has to warm it through.
 
 ### Two ways to make it
 
@@ -109,7 +109,7 @@ Two eggs scrambled with chopped chicken breast, plus tomato, onion, bread and no
 Heat the oil, sauté the onion until it softens, add the tomato and let it collapse and the liquid cook off. Add the chopped chicken and warm it through — it's already cooked, so this is thirty seconds, not browning. Push everything to one side of the pan, pour the beaten eggs into the empty side, let them set for a few seconds, then fold it all together. **All the daily totals in this plan assume this version.**
 
 **Soft-boiled with raw ensalada** — the no-pan alternative, but read the caveat.
-Dice the tomato and onion raw, salt them, let them sit while the eggs boil. Soft-boil the eggs, split them over the top so the yolk runs into the salad, scatter the cold chopped chicken over, eat with the bread and milk. **This version has no oil, so it comes in 80 cal and 9g of fat lighter** — which takes the six-day average to 50g of fat, under the band. If you make it, add those 2 tsp to that day's lunch and dinner instead. Protein is identical either way.
+Dice the tomato and onion raw, salt them, let them sit while the eggs boil. Soft-boil the eggs, split them over the top so the yolk runs into the salad, scatter the cold chopped chicken over, eat with the bread and milk. **This version skips the pan oil, so it comes in 80 cal and 9g of fat lighter** — which takes the six-day average to 49g of fat, under the band. If you make it, add those 2 tsp to that day's lunch and dinner instead. Protein is identical either way.
 
 ---
 
@@ -177,12 +177,12 @@ Every row carries about 38g of protein — Tuesday's 36g is the one exception. E
 
 | Day | Protein | Per serving, **cooked** | Cal | **P** | F | C | Oil |
 |---|---|---|---|---|---|---|---|
-| **Mon** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 3 tsp |
-| **Tue** | Mega tuna flakes in oil, **drained** | 1 can (155g net → ~120g drained) | 190 | **36** | 5 | 0 | 1 tsp |
-| **Wed** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 3 tsp |
-| **Thu** | Cream dory | 200g | 231 | **38** | 7.5 | 0 | 2 tsp |
-| **Fri** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 3 tsp |
-| **Sat** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 3 tsp |
+| **Mon** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 10g, at the cook |
+| **Tue** | Mega tuna flakes in oil, **drained** | 1 can (155g net → ~120g drained) | 190 | **36** | 5 | 0 | 1 tsp, at the meal |
+| **Wed** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 10g, at the cook |
+| **Thu** | Cream dory | 200g | 231 | **38** | 7.5 | 0 | 11g, at the cook |
+| **Fri** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 10g, at the cook |
+| **Sat** | Chicken breast | 125g | 206 | **38.5** | 4.5 | 0 | 10g, at the cook |
 
 ---
 
@@ -192,14 +192,14 @@ Every row carries about 38g of protein — Tuesday's 36g is the one exception. E
 
 | Protein | Cooked per serving | ≈ Raw equivalent | What's lost |
 |---|---|---|---|
-| Chicken breast | 125g | ~165g | ~25% water |
-| Chicken breast, breakfast | 60g | ~80g | ~25% water |
-| Cream dory | 200g | ~265g | ~25% water, more if ice-glazed |
+| Chicken breast | 125g | ~220g | ~44% water |
+| Chicken breast, breakfast | 60g | ~105g | ~44% water |
+| Cream dory | 200g | ~335g | ~40% water, more if ice-glazed |
 | Tuna, drained | ~120g = 1 can (155g net) | n/a | already cooked; oil poured off |
 
 **Why this matters more than anything else in the plan.** Cooked chicken breast is 31g protein per 100g; raw is 23.5g per 100g. Same piece of meat, different denominator. **Weigh 125g raw and log it against the cooked row and you get about 29g of protein instead of 38.5 — 18g off your day, four days a week.** At 145g with only 1–2g of headroom, that single mistake breaks the plan outright.
 
-Rice works the opposite way and is also weighed cooked, because it *gains* water instead of losing it.
+**Air-fried breast shrinks harder than the tables predict** — 2 kg raw comes back as 1,130g, not the 1,500g a 25% loss would suggest. That changes what you buy and nothing else: meat that dry is denser than the 31g per 100g logged here, so the servings run a gram or two in your favour. Rice works the opposite way and is also weighed cooked, because it *gains* water instead of losing it.
 
 **In practice: weigh the batch once, cooked, then divide.** Each Sunday batch goes on the scale whole and is split twelve ways. You never weigh a single serving, and a batch that came out light shows up before it's in the containers rather than after.
 
@@ -211,19 +211,20 @@ Rice works the opposite way and is also weighed cooked, because it *gains* water
 
 ## Where the Oil Goes
 
-**The oil in this plan is canola**, everywhere the word appears — breakfast, the ginisa, the pan for the fish. One 1L bottle, one oil, no decisions to make at the stove.
+**The oil in this plan is canola**, everywhere the word appears. One 1L bottle, one oil, no decisions to make at the stove.
 
-**Every meal gets some.** Breakfast takes 2 tsp every day — non-fat milk carries no fat at all, and without the oil the meal falls to 14g.
+**Almost all of it goes on at Sunday's cook**, weighed onto the meat before it hits the heat. The containers then reheat in the microwave with nothing added.
 
-| Day | Breakfast | Lunch | Dinner | Day total |
-|---|---|---|---|---|
-| Mon | 2 tsp | 3 tsp | 3 tsp | 8 tsp |
-| Tue | 2 tsp | 1 tsp | 1 tsp | 4 tsp |
-| Wed | 2 tsp | 3 tsp | 3 tsp | 8 tsp |
-| Thu | 2 tsp | 2 tsp | 2 tsp | 6 tsp |
-| Fri | 2 tsp | 3 tsp | 3 tsp | 8 tsp |
-| Sat | 2 tsp | 3 tsp | 3 tsp | 8 tsp |
-| Sun | 2 tsp | free meal | free meal | 2 tsp |
+| Where it goes | Oil | Carries |
+|---|---|---|
+| Breakfast chicken, 760g raw | 18 g | 2.5g a day, seven days |
+| Lunch and dinner chicken, 1,940g raw | 90 g | ~10g per meal, eight meals |
+| Cream dory, 670g raw | 22.5 g | ~11g per meal, two meals |
+| Breakfast pan — 2 tsp fresh, daily | 63 g | the ginisa |
+| Tuna — 1 tsp at each Tuesday meal | 9 g | folded in, not reheated |
+| **The week** | **202.5 g** | |
+
+**Breakfast still needs its 2 tsp in the pan.** Non-fat milk carries no fat at all, and without it the meal falls to 16.5g.
 
 ---
 
@@ -237,34 +238,34 @@ Each macro cell shows **grams · share of that day's calories**.
 
 | Day | Cal | Protein | Fat | Carbs |
 |---|---|---|---|---|
-| **Mon** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
-| **Tue** — tuna, drained | 2,039 | **142g** · 29% | 45g · 20% | 255g · 51% |
-| **Wed** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
-| **Thu** — cream dory | 2,200 | **146g** · 27% | 59g · 25% | 255g · 48% |
-| **Fri** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
-| **Sat** — chicken | 2,230 | **147g** · 27% | 62g · 26% | 255g · 47% |
+| **Mon** — chicken | 2,195 | **147g** · 28% | 58g · 24% | 255g · 48% |
+| **Tue** — tuna, drained | 2,062 | **142g** · 28% | 48g · 21% | 255g · 51% |
+| **Wed** — chicken | 2,195 | **147g** · 28% | 58g · 24% | 255g · 48% |
+| **Thu** — cream dory | 2,263 | **146g** · 27% | 66g · 27% | 255g · 46% |
+| **Fri** — chicken | 2,195 | **147g** · 28% | 58g · 24% | 255g · 48% |
+| **Sat** — chicken | 2,195 | **147g** · 28% | 58g · 24% | 255g · 48% |
 | **Sun** — ride + breakfast + two free meals *(estimate)* | ~2,430 | **~120g** · 20% | ~95g · 35% | ~275g · 45% |
-| **Six-day average (Mon–Sat)** | **2,193** | **146g · 27%** | **59g · 25%** | **255g · 48%** |
-| **True 7-day average** | **2,227** | **142g · 26%** | **64g · 27%** | **258g · 47%** |
+| **Six-day average (Mon–Sat)** | **2,184** | **146g · 27%** | **58g · 25%** | **255g · 48%** |
+| **True 7-day average** | **2,219** | **142g · 26%** | **63g · 26%** | **258g · 48%** |
 
 | Against target | Protein | Fat | Carbs |
 |---|---|---|---|
 | **Target** | 145g | 60–70g | ~255g |
-| **Six-day actual** | 146g — 1g over | 59g — 1g under | 255g — on it |
+| **Six-day actual** | 146g — 1g over | 58g — 2g under | 255g — on it |
 
 **How the percentages are worked.** Each is that macro's calories — 4 per gram for protein and carbs, 9 for fat — as a share of the three added together, so every row sums to 100. That total lands 2–3% below the calorie column, which comes from food labels: labels account for fibre and don't use flat 4/4/9 factors. The gap is rounding in the source data, not an error in either figure.
 
-**Protein runs 1.95–2.05g per kg of bodyweight, Monday to Saturday** — 27–29% of calories — and 1.65g/kg on Sunday. That's inside the 1.6–2.2g/kg range the evidence supports for building muscle while losing fat, which is the whole job this plan has.
+**Protein runs 1.95–2.05g per kg of bodyweight, Monday to Saturday** — 27–28% of calories — and 1.65g/kg on Sunday. That's inside the 1.6–2.2g/kg range the evidence supports for building muscle while losing fat, which is the whole job this plan has.
 
 **The split you're running is about 27 / 25 / 48** — protein, fat, carbs. A conventional distribution for a lifter eating at maintenance. There is nothing in it that needs fixing.
 
 **Every day lands at 146–147g against a 145g target** — 145–146g on mixed-vegetable weeks, a gram tighter. That 1–2g margin is enough for ordinary variation and not enough for a careless weighing. **Tuesday is the deliberate exception at 142g** — 141g on a vegetable week — three short on two cans of tuna and no meat to cook.
 
-**Against the targets:** the 7-day average of 2,227 lands on your estimated maintenance at 160 lbs — six days slightly under, Sunday over. Protein averages 142g against the 145g target, and Sunday is the whole of that gap.
+**Against the targets:** the 7-day average of 2,219 lands within 10 calories of your estimated maintenance at 160 lbs — six days slightly under, Sunday over. Protein averages 142g against the 145g target, and Sunday is the whole of that gap.
 
-**Fat sits at 59g, about 1g under the 60–70g band.** That is 25% of intake and 0.8g per kg of bodyweight, well clear of any physiological minimum. If you'd rather be mid-band, an extra teaspoon of oil a day on the four chicken days brings the average to 62g.
+**Fat sits at 58g, about 2g under the 60–70g band.** That is 25% of intake and 0.8g per kg of bodyweight, well clear of any physiological minimum. If you'd rather be mid-band, another 20g of oil on the lunch and dinner chicken brings the average to 61g. **Thursday is the outlier at 66g** — the dory's 22.5g of oil is spread over only two meals instead of eight.
 
-**The number to watch is the 7-day average of 2,227 cal.** That is your estimated maintenance at 160 lbs, which is exactly where a recomp belongs — not a deficit. Six days at ~2,193 and one Sunday at ~2,430 net out to it.
+**The number to watch is the 7-day average of 2,219 cal.** Your estimated maintenance at 160 lbs is 2,227, which is exactly where a recomp belongs — not a deficit. Six days at ~2,184 and one Sunday at ~2,430 net out to 8 calories a day under it.
 
 **If you feel flat on lifting or cycling days**, add 80g cooked rice per meal (~+210 cal). It costs nothing in protein.
 
@@ -278,16 +279,16 @@ Each macro cell shows **grams · share of that day's calories**.
 
 **Ride, eat, then prep.** Post-ride is when your muscles are most glycogen-depleted and best able to absorb a large carb-heavy meal, and the kitchen is easier on a full stomach than on an empty one. The cook is about 90 minutes, most of it unattended.
 
-**Sunday is bigger than the other days on purpose.** Your 34 km ride burns roughly 770 calories above resting, but that is already averaged into your maintenance figure, so it buys Sunday nothing on its own. What does is the six weekdays running at ~2,193, about 34 under maintenance each: that banks ~200, and Sunday spends it. The week averages 2,227 against a maintenance of 2,227.
+**Sunday is bigger than the other days on purpose.** Your 34 km ride burns roughly 770 calories above resting, but that is already averaged into your maintenance figure, so it buys Sunday nothing on its own. What does is the six weekdays running at ~2,184, about 43 under maintenance each: that banks ~260, and Sunday spends ~200 of it. The week averages 2,219 against a maintenance of 2,227.
 
 | | Cal | **Protein** |
 |---|---|---|
-| Breakfast | 615 | 47 |
-| **The two free meals have** | **~1,815 cal** | whatever they carry |
+| Breakfast | 637 | 47 |
+| **The two free meals have** | **~1,795 cal** | whatever they carry |
 
 **Sunday lands short of 145g, and that's the trade.** Breakfast brings 47g; two ordinary meals out bring 60–80g between them, which puts the day near 120g. The week still averages 142g — 2.0g per kg, inside the range that matters — because the other six days are on target. Ordering something meat-led at both meals keeps it there; two dessert-led or meatless meals are what would actually cost you.
 
-**~1,815 calories across two meals is roomier than it sounds, and it binds.** A 2-pc Chickenjoy with rice and a drink is about 900; a large sisig with two cups of rice, a full bowl of tonkotsu ramen with gyoza, four slices of a large pizza — any two of those fit, and that is the whole day. Add dessert and a second soda and you're over. Filipino restaurant portions pass 1,500 without effort.
+**~1,795 calories across two meals is roomier than it sounds, and it binds.** A 2-pc Chickenjoy with rice and a drink is about 900; a large sisig with two cups of rice, a full bowl of tonkotsu ramen with gyoza, four slices of a large pizza — any two of those fit, and that is the whole day. Add dessert and a second soda and you're over. Filipino restaurant portions pass 1,500 without effort.
 
 **Expect the scale up 2–4 lbs on Monday morning.** The ride empties your glycogen and it refills with roughly 3g of water per gram, on top of the day's sodium and carbs. It is water. It clears by Wednesday. Reacting to it is the easiest way to talk yourself out of a plan that is working.
 
@@ -313,7 +314,7 @@ Cross-checked against Katch–McArdle at ~16% body fat: 1,687. The two agree wit
 
 **Max elevation doesn't enter the calculation.** 307 m is the highest point you reach; 313 m is how much you climbed in total, and only the total costs energy. At that altitude air density is within 3% of sea level, which if anything makes the pedalling marginally easier.
 
-**Why it's a weekly average and not a daily one.** Energy balance settles over days and weeks; nothing resets at midnight. Six days at ~2,193 and one Sunday at ~2,430 net out to 2,227. That is what makes banking the ride's calories for Sunday's free meals legitimate rather than wishful.
+**Why it's a weekly average and not a daily one.** Energy balance settles over days and weeks; nothing resets at midnight. Six days at ~2,184 and one Sunday at ~2,430 net out to 2,219. That is what makes banking the ride's calories for Sunday's free meals legitimate rather than wishful.
 
 **This estimate carries ±10%** — your true maintenance is somewhere in 2,004–2,450. Only your own data settles it. If you have ever held 160 lbs steady on a known intake, that number beats this arithmetic.
 
