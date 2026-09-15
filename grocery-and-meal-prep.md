@@ -23,10 +23,10 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 
 | Ingredient | Raw, per week | Becomes | Where it goes |
 |---|---|---|---|
-| **Chicken breast** | **2.7 kg** — 1,940g rubbed · 760g plain | 1,420g cooked, usually a little over | 1,000g lunch/dinner · 420g breakfast |
-| **Cream dory** | **670 g** | 400g cooked | Thursday |
-| **Mega tuna flakes in oil, 155g** | **2 cans** | ~120g drained each | Tuesday — no cooking |
-| **Rice, dry** | **1.05 kg** | 2,880g cooked | 240g per meal, twelve meals |
+| **Chicken breast** | **1.7 kg** — 1,510g rubbed · 200g plain | 905g cooked, usually a little over | 800g lunch/dinner · 105g breakfast |
+| **Cream dory** | **535 g** | 320g cooked | Thursday |
+| **Mega tuna flakes in oil, 155g** | **2 cans** | ~240g drained | Tuesday — no cooking |
+| **Rice, dry** | **640 g** | 1,800g cooked | 150g per meal, twelve meals |
 | **Cabbage** | **3.2 kg** | 2,400g cooked | 200g per meal |
 | **Red kidney beans, dry** | **300 g** | 720g cooked | bean weeks only |
 | **Jolly mixed vegetables, 230g** | **6 cans** | 1,380g drained | vegetable weeks only |
@@ -35,60 +35,61 @@ Portions, macros and the reasoning behind them live in [body-recomp-meal-plan.md
 | Onion | 500 g | — | breakfast, and the pan |
 | Whole wheat bread | 2 loaves — 28 slices | — | breakfast and merienda |
 | Non-fat milk | 3.5 L — buy 4 × 1L | — | breakfast and merienda |
-| Lily's peanut butter spread lite | ~225 g | — | merienda, 2 tbsp a day |
-| Lakatan bananas | 6 large | — | half at lunch, half at dinner |
-| Canola oil | ~205 ml | — | all of it at the Sunday cook, bar the breakfast pan |
+| Lily's peanut butter spread lite | 210 g | — | merienda, 30g a day |
+| Canola oil | ~160 ml | — | all of it at the Sunday cook, bar the breakfast pan |
 | Garlic, ginger | a head, a thumb | — | seasoning |
-| Salt and dry spices | ~50 g salt · paprika, garlic powder, pepper, cumin | — | the rubs, and the dory |
+| Salt and dry spices | ~40 g salt · paprika, garlic powder, pepper, cumin | — | the rubs, and the dory |
 
-**Rice, oil and dry spices come out of the house stock**, so they aren't in the shopping list below. At 1.05 kg dry and 205 ml a week, a 5 kg sack and a 1L bottle each last about five weeks — check both at the start of the month rather than discovering it on a Sunday.
+**Rice, oil and dry spices come out of the house stock**, so they aren't in the shopping list below. At 640g dry and 160 ml a week, a 5 kg sack lasts about seven weeks and a 1L bottle about six — check both at the start of the month rather than discovering it on a Sunday.
 
 **Buy beans or mixed vegetables, never both.** The two alternate week by week; either one covers Monday to Saturday on its own.
 
 **Cabbage, not kangkong or pechay.** All three are interchangeable on the plate, but only cabbage survives six days of storage and reheating — the leafy ones go slimy by Wednesday. If you want kangkong or pechay, cook them fresh on the day and leave them out of the prep; 200g cooked is about 400g raw either way.
 
+**The bread and milk are the lines to protect.** They appear twice a day now — breakfast and merienda — and between them carry a third of the week's protein. Running out of either on a Thursday costs you more than running out of chicken.
+
 ---
 
 ## Sunday Prep
 
-Roughly 90 minutes, most of it unattended. Ride first, eat, then cook.
+Roughly 75 minutes, most of it unattended. Ride first, eat, then cook.
 
 **Put the beans on first.** 300g dry, soaked in plenty of water since Saturday night, the soaking water thrown out. Fresh water, **ten minutes at a hard rolling boil**, then simmer 45 minutes until tender and drain — you want ~720g. The hard boil is not optional: raw kidney beans carry a toxin that a low simmer concentrates instead of destroying, and this pot fills twelve containers.
 
-**Start the rice.** 1.05 kg dry in the rice cooker. It runs by itself while everything else happens.
+**Start the rice.** 640g dry in the rice cooker. It runs by itself while everything else happens.
 
 **Season the three meat batches before anything goes near the heat.** All the week's oil is weighed on here — the containers then reheat in the microwave with nothing added.
 
 | Batch | Raw weight | Seasoning | Oil |
 |---|---|---|---|
-| **Breakfast chicken** — the whole week | 760 g | 11.4 g salt · 2.7 g black pepper | 18 g (4 tsp) |
-| **Lunch and dinner chicken** | 1,940 g | one dry rub, below | 90 g (20 tsp) |
-| **Cream dory** | 670 g | 10 g salt · 3.8 g paprika · 2.5 g black pepper · 5 g garlic powder | 22.5 g (5 tsp) |
+| **Breakfast chicken** — the whole week | 200 g | 3 g salt · 0.7 g black pepper | 4 g (1 tsp) |
+| **Lunch and dinner chicken** | 1,510 g | one dry rub, below | 64 g (14 tsp) |
+| **Cream dory** | 535 g | 8 g salt · 3 g paprika · 2 g black pepper · 4 g garlic powder | 18 g (4 tsp) |
 
 **Salt runs at 1.5% of raw weight** in all three — that's the rate to scale by if a batch size changes. The only oil not in the table is the 2 tsp the breakfast pan takes each morning and the 1 tsp that dresses Tuesday's tuna.
 
 ### The dry rub — pick one
 
-Both are sized for the full 1,940 g of lunch and dinner chicken. **The breakfast batch is never rubbed** — salt and pepper only, so it doesn't fight with the eggs.
+Both are sized for the full 1,510 g of lunch and dinner chicken. **The breakfast batch is never rubbed** — salt and pepper only, so it doesn't fight with the eggs.
 
 | Ingredient | Paprika and garlic | Cumin cardamom |
 |---|---|---|
-| Salt | 2 tbsp — 29 g | 2 tbsp — 29 g |
-| Paprika | 2 tbsp — 13.5 g | 1 tbsp — 6.7 g |
-| Black pepper | 1 tbsp — 6.7 g | 1 tbsp — 6.7 g |
-| Garlic powder | 1 tbsp — 9.4 g | 1½ tbsp — 13.5 g |
-| Cumin | — | 1¾ tbsp — 10.8 g |
-| Cardamom | — | 1 tsp — 1.9 g |
-| Cinnamon | — | ½ tsp — 1.3 g |
-| **Total** | **~59 g · ~58 kcal** | **~70 g · ~106 kcal** |
+| Salt | 1½ tbsp — 22 g | 1½ tbsp — 22 g |
+| Paprika | 1½ tbsp — 10 g | ¾ tbsp — 5 g |
+| Black pepper | ¾ tbsp — 5 g | ¾ tbsp — 5 g |
+| Garlic powder | ¾ tbsp — 7 g | 1 tbsp — 10 g |
+| Cumin | — | 1⅓ tbsp — 8 g |
+| Cardamom | — | ¾ tsp — 1.5 g |
+| Cinnamon | — | ⅓ tsp — 1 g |
+| **Total** | **~44 g · ~43 kcal** | **~52 g · ~79 kcal** |
 
-**Don't log the rub.** Spread across eight meals it's 7–13 calories each, and most of the salt rinses off in the drip. The macros in the meal plan already absorb it.
+**Don't log the rub.** Spread across eight meals it's 5–10 calories each, and most of the salt rinses off in the drip. The macros in the meal plan already absorb it.
 
-**Air-fry the chicken as two batches**, keeping them apart — they're seasoned differently. Neither fits in one load; a 5–6L basket takes about 600g raw in a single layer, so it's four or five loads of roughly 20 minutes at 180°C. Cook to 74°C in the thickest part rather than to the clock — a batch driven by the timer dries out and leaves you short.
+**Air-fry the chicken as two batches**, keeping them apart — they're seasoned differently. The rubbed batch won't fit in one load; a 5–6L basket takes about 600g raw in a single layer, so it's three loads of roughly 20 minutes at 180°C, plus one small load for the breakfast 200g. Cook to 74°C in the thickest part rather than to the clock — a batch driven by the timer dries out and leaves you short.
 
-**Weigh each batch cooked.** The breakfast batch should come off at ~430g — chop it and split it into two tubs, 180g and 240g. The rubbed batch should make ~1,095g, and the first 1,000g is the eight chicken meals at 125g each. **Anything past that is spare** — the 2.7 kg is bought with a margin so a batch that shrinks hard still fills twelve containers. Eat the surplus or freeze it; don't let it grow the portions.
+**Weigh each batch cooked.** The breakfast batch should come off at ~110g — chop it and split it into two tubs, 45g and 60g. The rubbed batch should make ~850g, and the first 800g is the eight chicken meals at 100g each. **Anything past that is spare** — the 1.7 kg is bought with a margin so a batch that shrinks hard still fills twelve containers. Eat the surplus or freeze it; don't let it grow the portions.
 
-**Cook the cream dory** — seasoned and oiled as above, to ~400g cooked.
+**Cook the cream dory** — seasoned and oiled as above, to ~320g cooked.
 
 **Steam or boil the cabbage** — 3.2 kg raw, drained, to ~2,400g cooked. No oil. Do it in two or three lots; it won't fit in one pan.
 
@@ -104,22 +105,22 @@ Twelve containers — six days, two meals each. Lunch and dinner are identical, 
 
 | Day | In the container | Added at the meal |
 |---|---|---|
-| **Mon** | 125g chicken · 240g rice · 200g cabbage · 60g beans | ½ banana |
-| **Tue** | 240g rice · 200g cabbage · 60g beans | 1 can tuna, drained · 1 tsp oil · ½ banana |
-| **Wed** | 125g chicken · 240g rice · 200g cabbage · 60g beans | ½ banana |
-| **Thu** | 200g cream dory · 240g rice · 200g cabbage · 60g beans | ½ banana |
-| **Fri** | 125g chicken · 240g rice · 200g cabbage · 60g beans | ½ banana |
-| **Sat** | 125g chicken · 240g rice · 200g cabbage · 60g beans | ½ banana |
+| **Mon** | 100g chicken · 150g rice · 200g cabbage · 60g beans | — |
+| **Tue** | 150g rice · 200g cabbage · 60g beans | 100g tuna, drained · 1 tsp oil |
+| **Wed** | 100g chicken · 150g rice · 200g cabbage · 60g beans | — |
+| **Thu** | 160g cream dory · 150g rice · 200g cabbage · 60g beans | — |
+| **Fri** | 100g chicken · 150g rice · 200g cabbage · 60g beans | — |
+| **Sat** | 100g chicken · 150g rice · 200g cabbage · 60g beans | — |
 
 On vegetable weeks the 60g of beans becomes **115g of Jolly mixed vegetables** — one 230g can is exactly one day. Nothing else moves.
 
-**Tuesday's containers hold no meat.** Open a can of tuna at the meal, drain it, fold it through. That's why Tuesday needs no protein in the prep and buys no chicken.
+**Tuesday's containers hold no meat.** Open two cans at the meal, drain them together, weigh 100g into each of the day's two containers and fold it through. The ~40g over isn't counted anywhere in the plan.
+
+**The rice is a small mound and the cabbage is what fills the box.** At 150g it looks thin next to 200g of cabbage — that's correct, and it's why the vegetable weight is worth keeping honest.
 
 **The oil is already in the container.** It went on the meat at Sunday's cook, so reheating is the microwave and nothing else — no pan, no measuring, nothing added. Tuesday is the one exception: the tuna is dressed with its 1 tsp when you fold it in.
 
-**Bananas stay on the counter.** Half with lunch, half with dinner, cut on the day.
-
-**Merienda needs no prep.** Two slices of bread, 2 tbsp of peanut butter and 250ml of milk, assembled in the afternoon — nothing to portion on Sunday and nothing to reheat.
+**Merienda needs no prep.** Two slices of bread, 30g of peanut butter and 250ml of milk, assembled in the afternoon — nothing to portion on Sunday and nothing to reheat. **Weigh the spread**, though; 2 tbsp off a knife is 30g if you're careful and 45g if you aren't.
 
 ---
 
@@ -130,7 +131,7 @@ On vegetable weeks the 60g of beans becomes **115g of Jolly mixed vegetables** �
 | | Fridge | Freezer |
 |---|---|---|
 | **Containers** | Mon, Tue, Wed — 6 | Thu, Fri, Sat — 6 |
-| **Breakfast chicken** | 180g tub — Mon, Tue, Wed | 240g tub — Thu, Fri, Sat, Sun |
+| **Breakfast chicken** | 45g tub — Mon, Tue, Wed | 60g tub — Thu, Fri, Sat, Sun |
 
 **Move the next day's container down to the fridge the night before.** It thaws overnight and reheats the same as a fresh one. Never thaw on the counter, and never go straight to the pan from frozen — the rice turns to paste before the chicken is warm.
 
@@ -150,34 +151,34 @@ Order in bulk, monthly. These are the only shelf-stable lines in the plan.
 |---|---|---|---|---|---|---|---|
 | Red kidney beans, dry | 300 g — **bean weeks only** | 337 | 22.5 | 1.1 | 61.3 | 60g cooked = 74 / 5 / 0.5 / 13.5 | ₱56 |
 | Jolly mixed vegetables, 230g | 6 cans — **vegetable weeks only** | 64 | 3.9 | ~0.1 | 11.7 | 115g drained = 73 / 4.5 / 0 / 13.5 | ₱170 |
-| Mega tuna flakes in oil, 155g | 2 cans | 157 | 23.2 | 7.1 | 0 | 1 can drained = 190 / 36 / 5 / 0 | ₱74 |
+| Mega tuna flakes in oil, 155g | 2 cans | 157 | 23.2 | 7.1 | 0 | 100g drained = 158 / 30 / 4 / 0 | ₱74 |
 | Selecta non-fat milk, 1L | 4 boxes | 35 /100ml | 3.4 | 0.1 | 5.0 | 250ml = 88 / 8.5 / 0 / 13 | ₱296 |
-| Lily's peanut butter spread lite | ~225 g | 594 | 23.4 | 39.0 | 37.5 | 2 tbsp, 32g = 190 / 7.5 / 12.5 / 12 | ₱90 |
-| | | | | | | | **₱516 bean · ₱630 veg** |
+| Lily's peanut butter spread lite | 210 g | 566 | 23.3 | 36.7 | 36.7 | 30g = 170 / 7 / 11 / 11 | ₱84 |
+| | | | | | | | **₱510 bean · ₱624 veg** |
 
 **On the shelf, check:**
-- **Milk** — it must say **non-fat**, **skim** or **fat-free**, and the protein should read **3.2–3.5g per 100ml**. Watch for two impostors: "filled milk" and "milk drink" are ~2g protein per 100ml with coconut oil added, and "low-fat" is not the same as non-fat (it keeps 1.5–2% fat). Check for added sugar too — some non-fat milks add it back for palatability, which would push the carbs above the 13g per serving assumed here.
-- **Tuna** — the label should read 13g protein and 4g fat per 56g serving, at about 2.8 servings a can. That's what makes one can 36g of protein.
+- **Milk** — it must say **non-fat**, **skim** or **fat-free**, and the protein should read **3.2–3.5g per 100ml**. Watch for two impostors: "filled milk" and "milk drink" are ~2g protein per 100ml with coconut oil added, and "low-fat" is not the same as non-fat (it keeps 1.5–2% fat). Check for added sugar too — some non-fat milks add it back for palatability, which would push the carbs above the 13g per serving assumed here. **You now drink 500ml a day, so a bad substitution costs you twice over.**
+- **Tuna** — the label should read 13g protein and 4g fat per 56g serving, at about 2.8 servings a can. That's what makes 100g drained 30g of protein.
 - **Beans** — plain dried red kidney beans, nothing pre-seasoned and not a baked-bean mix. Beans that have sat in stock for a year never soften however long you boil them, so buy from somewhere that moves volume and don't lay in more than a couple of months at a time.
-- **Peanut butter** — **the macros above are an estimate and you should overwrite them from the jar.** Lite spreads vary a lot: some cut fat and add sugar back, so the carbs can run anywhere from 8g to 16g per 2 tbsp. Read the per-serving column, check what Lily's calls a serving in grams, and weigh 2 tbsp once to see whether it's really 32g.
+- **Peanut butter** — **the macros above are an estimate and you should overwrite them from the jar.** Lite spreads vary a lot: some cut fat and add sugar back, so the carbs can run anywhere from 8g to 16g per 30g. Read the per-serving column, check what Lily's calls a serving in grams, and weigh 2 tbsp once to see what it really comes to. This is now 170 of your calories every day — it's worth the one minute.
 - **Jolly mixed vegetables** — the 230g figure is drained weight, and the plan assumes 9g protein and **27g total carbohydrate** for the whole can. Read the *total* carbohydrate line, not the sugars line — sugars on these cans run around 9g, and using that figure would understate the carbs by two thirds.
 
 ### Supermarket
 
 | Item | Qty/week | Cal/100g | P | F | C | Plan serving (cal / P / F / C) | Cost |
 |---|---|---|---|---|---|---|---|
-| Chicken breast, raw | 2.7 kg | — | — | — | — | 125g cooked = 206 / 38.5 / 4.5 / 0 | ₱905 |
-| Cream dory, raw | 670 g | — | — | — | — | 200g cooked = 231 / 38 / 7.5 / 0 | ₱212 |
+| Chicken breast, raw | 1.7 kg | — | — | — | — | 100g cooked = 165 / 31 / 3.5 / 0 | ₱570 |
+| Cream dory, raw | 535 g | — | — | — | — | 160g cooked = 185 / 30.5 / 6 / 0 | ₱169 |
 | Eggs | 14 — buy a tray of 30 fortnightly | 144 | 12.0 | 10.0 | 0.5 | 2 eggs, 100g out of the shell = 144 / 12 / 10 / 0.5 | ₱175 |
 | Whole wheat bread | 2 loaves (~20 slices each) | 246 | 12.0 | 3.0 | 43.0 | 2 slices, 65g = 160 / 8 / 2 / 28 | ₱176 |
-| | | | | | | | **₱1,468** |
+| | | | | | | | **₱1,090** |
 
 **On the shelf, check:**
-- **Chicken** — S&R runs about ₱335/kg, the cheapest reliable source for the volume this plan eats. It is by far the largest line in the budget, so it's the only price worth shopping around on.
-- **Cream dory** — sold frozen as fillets, often in 1kg packs; at 670g a week one pack covers a Thursday and half the next. Check whether the pack weight is **net** or includes ice glaze; a heavily glazed pack can be 20% water you're paying for.
-- **Bread** — whole wheat flour must be the **first ingredient**. Many loaves sold as whole wheat are refined flour with molasses for colour, and read closer to 8g protein and 50g carbs per 100g. Weigh two slices once and adjust the 65g.
+- **Chicken** — S&R runs about ₱335/kg, the cheapest reliable source. It's still the largest line in the basket, though a much smaller one than it used to be.
+- **Cream dory** — sold frozen as fillets, often in 1kg packs; at 535g a week one pack covers two Thursdays with a little over. Check whether the pack weight is **net** or includes ice glaze; a heavily glazed pack can be 20% water you're paying for.
+- **Bread** — whole wheat flour must be the **first ingredient**. Many loaves sold as whole wheat are refined flour with molasses for colour, and read closer to 8g protein and 50g carbs per 100g. Weigh two slices once and adjust the 65g. **You eat four slices a day**, so a loaf that's 20% off is 20% off twice.
 
-**One 2.7 kg bag of chicken is one week, with a little in hand.** If you buy a fortnight at a time, split and freeze it the day you get home — Sunday's prep expects to start from a single week's bag.
+**One 1.7 kg bag of chicken is one week, with a little in hand.** If you buy a fortnight at a time, split and freeze it the day you get home — Sunday's prep expects to start from a single week's bag.
 
 ### Wet market (palengke)
 
@@ -186,13 +187,12 @@ Produce only. Go early morning; it's usually 30–40% cheaper than the supermark
 | Item | Qty/week | Cal/100g | P | F | C | Notes | Cost |
 |---|---|---|---|---|---|---|---|
 | Cabbage | 3.2 kg | 25 cooked | 0 | 0 | 5.5 | 200g cooked per meal, twelve meals | ₱148 |
-| Lakatan bananas | 6 large pcs | 92 | 1.0 | 0.3 | 23.0 | ½ pc, 60g peeled = 55 / 0.5 / 0 / 14 | ₱63 |
 | Tomatoes | 900 g | — | — | — | — | A week of breakfasts | ₱83 |
 | Onions | 500 g | — | — | — | — | Breakfast, and the pan | ₱46 |
 | Garlic, ginger | a head, a thumb | — | — | — | — | 2 weeks | ₱20 |
-| | | | | | | | **₱360** |
+| | | | | | | | **₱297** |
 
-**3.2 kg of cabbage is not a mistake.** The plan eats 400g of cooked vegetables a day and cabbage loses about a quarter of its weight in the pot. It's the bulkiest thing you'll carry and the cheapest thing in the basket.
+**3.2 kg of cabbage is not a mistake.** The plan eats 400g of cooked vegetables a day and cabbage loses about a quarter of its weight in the pot. It's the bulkiest thing you'll carry and the cheapest thing in the basket — and with the rice down to 150g a meal, it's what keeps the container looking like a meal.
 
 ---
 
@@ -200,15 +200,15 @@ Produce only. Go early morning; it's usually 30–40% cheaper than the supermark
 
 | | |
 |---|---|
-| **Bean week** | ~₱2,345 |
-| **Vegetable week** | ~₱2,460 |
-| **Monthly** | roughly **₱10,400** |
+| **Bean week** | ~₱1,897 |
+| **Vegetable week** | ~₱2,011 |
+| **Monthly** | roughly **₱8,500** |
 
 Rice and canola oil aren't in this — they come out of the house stock. Neither are Sunday's two meals out; add whatever you plan to spend.
 
-**Where to save, cheapest first.** Chicken is the largest single line at ₱905 a week — four of your seven days plus every breakfast.
+**Where to save, cheapest first.** Chicken is still the largest single line at ₱570 a week, with milk close behind at ₱296.
 1. **Buy whole chicken** and portion it yourself; it beats breast per kilo anywhere you shop.
-2. **Powdered non-fat milk** is usually 30–40% cheaper than boxed, with the same protein.
+2. **Powdered non-fat milk** is usually 30–40% cheaper than boxed, with the same protein — and you now get through 3.5 L a week.
 3. **Eggs and bread at the palengke** rather than the supermarket, if there's a stall that carries them.
 
-**Do not cut the breakfast chicken or the meat portions.** Both are load-bearing for the 145g, and the plan runs on a 1–2g margin. There is no slack anywhere else to take it out of.
+**Do not cut the merienda or the meat portions.** The bread, milk and peanut butter carry 23.5g of protein between them and the two meat servings carry 61g; the plan runs on a 1g margin and there is no slack anywhere else to take it out of. The 15g of breakfast chicken is the only thing here you could drop without breaking something.

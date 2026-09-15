@@ -17,25 +17,24 @@
 |---|---|---|
 | Egg | Buy 30 every 2 weeks | 750 |
 | Whole wheat bread | 2 every week | 700 |
-| Chicken Breast (S&R ₱335/kg) | Buy 5.5kg/2 weeks or 11kg/month | 3,685 |
-| Cream dory | 3kg every month | 948 |
-| **Total** | | **6,083** |
+| Chicken Breast (S&R ₱335/kg) | Buy 3.5kg/2 weeks or 7kg/month | 2,345 |
+| Cream dory | 2.5kg every month | 790 |
+| **Total** | | **4,585** |
 
 ## Wet Market (Buy once a week)
 
 | Item | Quantity | Price (₱) |
 |---|---|---|
-| Lakatan banana | Buy 10 pcs every week | 450 |
 | Tomato | Buy 500g every week | 200 |
 | Onion | Buy 500g every week | 200 |
 | Cabbage | Buy 1kg every week | 200 |
-| **Total** | | **1,050** |
+| **Total** | | **600** |
 
 ## Total Monthly Grocery Expenses
 
 | Source | Amount (₱) |
 |---|---|
 | Shopee | 3,552 |
-| Supermarket | 6,083 |
-| Wet Market | 1,050 |
-| **Grand Total** | **10,685** |
+| Supermarket | 4,585 |
+| Wet Market | 600 |
+| **Grand Total** | **8,737** |
